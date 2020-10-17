@@ -16,3 +16,31 @@ textarea {
     max-width: 280px;
 }
 
+.content {
+    width: 28%; /*Espacio a utilizar cada bloque*/
+    display: inline-block; /*Colocar los bloques a la par*/
+    vertical-align: top;
+    margin-right: 35px;
+    margin-bottom: 60px;
+}
+
+    .content img {
+        width: 100%
+    }
+
+.title {
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: -40px;
+    color: white;
+    opacity: .9;
+}
+
+.background-title {
+    margin-top: -60px;
+    height: 60px;
+    background-color: #222;
+    opacity: .6; /*Sombra del texto*/
+    color: white;
+}
+

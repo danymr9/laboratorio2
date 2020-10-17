@@ -17,8 +17,7 @@ nupkg/
 *.userosscache
 *.sln.docstates
 
-#
-/AnimeFLV/.vs/AnimeFLV/v16/.suo
+/.vs/AnimeFLV/v16/.suo
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

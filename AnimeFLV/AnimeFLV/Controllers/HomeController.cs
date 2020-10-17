@@ -9,7 +9,12 @@ namespace AnimeFLV.Controllers
 {
     public class HomeController : Controller
     {
-        Repository repo = new Repository();
+        Repository repo = null;
+
+        public HomeController()
+        {
+            repo = new Repository();
+        }
 
         // GET: Home
         public ActionResult Index()

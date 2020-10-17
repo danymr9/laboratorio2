@@ -10,22 +10,33 @@
 }
 
 /* Set width on the form input elements since they're 100% wide by default */
-input,
+/*input,
 select,
 textarea {
     max-width: 280px;
-}
+}*/
 
 .content {
     width: 28%; /*Espacio a utilizar cada bloque*/
     display: inline-block; /*Colocar los bloques a la par*/
     vertical-align: top;
     margin-right: 35px;
-    margin-bottom: 60px;
+    margin-bottom: 0px;
+    margin-top: 35px;
 }
 
     .content img {
-        width: 100%
+        height: 180px;
+        width: 100%;
+        border-radius: 20px;
+    }
+
+.container img:hover {
+    transform: scale(1.05);
+}
+
+    .content a:hover{
+        text-decoration:none;
     }
 
 .title {
@@ -40,7 +51,8 @@ textarea {
     margin-top: -60px;
     height: 60px;
     background-color: #222;
-    opacity: .6; /*Sombra del texto*/
+    opacity: .85; /*Sombra del texto*/
     color: white;
+    border-radius: 20px;
 }
 

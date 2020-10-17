@@ -4,17 +4,15 @@
     ViewBag.Title = "Categorias";
 }
 
-<h2>Categorias del dia</h2>
-
 @foreach (var item in Model)
 {
-    <div class="content">
-        @*<a href="@Url.Action("Recipes", new { id=item.ID })">*@
-            <img src="~/Content/images/@item.ImagePath" />
-            <div class="background-title"></div>
-            <h3 class="title">@item.Name</h3>
-        @*</a>*@
-    </div>
+<div class="content">
+    <a href="@Url.Action("Recipes", new { id=item.ID })">
+        <img src="~/@item.ImagePath" />
+        <div class="background-title"></div>
+        <h3 class="title">@item.Name</h3>
+    </a>
+</div>
 }
 
 

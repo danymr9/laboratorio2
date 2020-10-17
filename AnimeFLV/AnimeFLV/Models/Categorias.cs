@@ -5,7 +5,7 @@ using System.Web;
 
 namespace AnimeFLV.Models
 {
-    public class Category
+    public class Categorias
     {
         public int ID { get; set; }
         public string Name { get; set; }

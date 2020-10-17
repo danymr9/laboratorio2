@@ -10,14 +10,14 @@ namespace AnimeFLV.Models
 {
     public class Repository
     {
-        public List<Category> Categorias
+        public List<Categorias> Categorias
         {
             get
             {
                 var serializer = new JavaScriptSerializer();
                 var file = HttpContext.Current.Server.MapPath("~/App_Data/categories.txt");
                 var content = File.ReadAllText(file);
-                return serializer.Deserialize<List<Category>>(content);
+                return serializer.Deserialize<List<Categorias>>(content);
             }
         }
     }

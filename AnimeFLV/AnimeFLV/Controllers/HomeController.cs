@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AnimeFLV.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,18 @@ namespace AnimeFLV.Controllers
 {
     public class HomeController : Controller
     {
+        Repository repo = new Repository();
+
         // GET: Home
         public ActionResult Index()
         {
             return View();
+        }
+
+        public ActionResult Categorias(int id)
+        {
+            List<Categorias> values = repo.Categorias;
+            return View(values);
         }
     }
 }

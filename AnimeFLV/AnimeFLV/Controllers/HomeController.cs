@@ -27,5 +27,12 @@ namespace AnimeFLV.Controllers
             List<Categorias> values = repo.Categorias;
             return View(values);
         }
+
+        public ActionResult Series(int id)
+        {
+            List<Series> values = repo.Series.Where(x => x.CategoryId == id).ToList();
+            ViewBag.NameCategory = repo.Categorias.FirstOrDefault(x => x.ID == id).Name;
+            return View(values);
+        }
     }
 }

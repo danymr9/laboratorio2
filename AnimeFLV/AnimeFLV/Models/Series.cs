@@ -9,9 +9,9 @@ namespace AnimeFLV.Models
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public string synopsis { get; set; }
+        public string Synopsis { get; set; }
         public string ImagePath { get; set; }
-        public string CategoriaId { get; set; }
+        public int CategoryId { get; set; }
 
     }
 }

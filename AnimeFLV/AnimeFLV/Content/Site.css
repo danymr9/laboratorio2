@@ -20,7 +20,8 @@ textarea {
     width: 28%; /*Espacio a utilizar cada bloque*/
     display: inline-block; /*Colocar los bloques a la par*/
     vertical-align: top;
-    margin-right: 35px;
+    margin-right: 30px;
+    margin-left: 25px;
     margin-bottom: 0px;
     margin-top: 35px;
 }
@@ -30,6 +31,38 @@ textarea {
         width: 100%;
         border-radius: 20px;
     }
+
+.content-Series {
+    width: 23%; /*Espacio a utilizar cada bloque*/
+    display: inline-block; /*Colocar los bloques a la par*/
+    vertical-align: top;
+    margin-right: -65px;
+    margin-left: 22.5px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+    .content-Series img {
+        height: 75%;
+        width: 75%;
+        border-radius: 20px;
+    }
+
+.content-title {
+    height: 75px;
+    padding: 25px;
+    border: 0px solid #252A2C;
+    background-color: #252A2C;
+    font-size: 25px;
+    color: white;
+    border-radius: 20px;
+    opacity: .85;
+    text-align: center;
+}
+
+.content-title, .content-Series a:hover {
+    text-decoration: none;
+}
+    
 
 .container img:hover {
     transform: scale(1.05);
@@ -47,12 +80,35 @@ textarea {
     opacity: .9;
 }
 
+.title-series {
+    font-size: 1em;
+    text-align: center;
+    margin-top: -40px;
+    margin-left: -60px;
+    color: white;
+    opacity: .9;
+}
+
 .background-title {
     margin-top: -60px;
     height: 60px;
     background-color: #222;
-    opacity: .85; /*Sombra del texto*/
     color: white;
     border-radius: 20px;
+    opacity: .85;
+    text-align:center;
 }
+
+.background-title-series {
+    margin-top: -60px;
+    height: 60px;
+    background-color: #6A246A;
+    color: white;
+    border-radius: 20px;
+    opacity: .85;
+    text-align: center;
+    width: 75%;
+}
+
+
 

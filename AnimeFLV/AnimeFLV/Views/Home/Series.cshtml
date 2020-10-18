@@ -1,0 +1,21 @@
+﻿@model List<AnimeFLV.Models.Series>
+
+@{
+    ViewBag.Title = "Series de " + @ViewBag.NameCategory;
+}
+
+<div class="content-title">
+    <p> Categoria Seleccionada : @ViewBag.NameCategory </p>
+</div>
+
+    @foreach (var item in Model)
+    {
+        <div class="content-Series">
+            <a href="@Url.Action("Capitulos", new { id=item.ID })">
+                <img src="~/@item.ImagePath" />
+                <div class="background-title-series"></div>
+                <h3 class="title-series">@item.Name</h3>
+            </a>
+        </div>
+    }
+

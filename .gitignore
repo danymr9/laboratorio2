@@ -16,7 +16,8 @@ nupkg/
 *.user
 *.userosscache
 *.sln.docstates
-AnimeFLV\.vs\AnimeFLV\*
+/AnimeFLV/.vs/AnimeFLV/v16/*
+/AnimeFLV/AnimeFLV/obj/Debug/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

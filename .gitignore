@@ -16,7 +16,7 @@ nupkg/
 *.user
 *.userosscache
 *.sln.docstates
-/AnimeFLV/.vs/AnimeFLV/v16/.suo
+AnimeFLV/.vs/AnimeFLV/v16/.suo
 /AnimeFLV/AnimeFLV/obj/Debug/AnimeFLV.csprojAssemblyReference.cache
 
 # Build results

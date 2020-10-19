@@ -165,3 +165,5 @@ C:\Users\Danym\Source\Repos\danymr9\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\Ani
 C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.csprojAssemblyReference.cache
 C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.Properties.Resources.resources
 C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.csproj.GenerateResource.cache
+C:\Users\Danym\Source\Repos\danymr9\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.Properties.Resources.resources
+C:\Users\Danym\Source\Repos\danymr9\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.csproj.GenerateResource.cache

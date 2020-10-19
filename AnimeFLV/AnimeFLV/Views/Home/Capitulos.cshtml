@@ -1,0 +1,49 @@
+﻿@model List<AnimeFLV.Models.Capitulos>
+@{
+    ViewBag.Title = "Capitulos";
+}
+
+<h2>@ViewBag.NameCategory</h2>
+
+<div class="container" style="width: 1187px;">
+    <div class="row product" style="width: 1182px;">
+        <div class="col-md-4 col-md-offset-0" style="width: 330px;">
+            <img class="img-responsive" src="~/@ViewBag.ImagenSerie" style="width: 290px;height: 400px;padding: 19px;margin: 16px;">
+            <button class="btn btn-success" type="button" style="margin: -57px;width: 250px;padding: -1px;padding-top: 5px;height: 59px;padding-bottom: 8px;margin-right: -20px;margin-left: 35px;margin-top: -56px;">Emision</button>
+            <button class="btn btn-danger" type="button" style="margin: 41px;width: 115px;padding-top: 5px;height: 58px;margin-top: 25px; margin-left:35px">Favoritos</button>
+            <button class="btn btn-info" type="button" style="margin: -29px;width: 115px;height: 59px;padding-right: 11px;margin-top: -65px;margin-bottom: -50px;margin-right: -1px;margin-left: -28px;">Seguir</button>
+        </div>
+        <div class="col-md-7"
+             style="margin: 49px;width: 664px;height: 249px;">
+            <h2>@ViewBag.NameSerie</h2>
+            <p>@ViewBag.Description</p>
+        </div>
+    </div>
+    <div class="page-header" style="width: 320px; margin: 10px 20px 0px 375px;">
+        <h3>Lista de capitulos</h3>
+    </div>
+    <div class="table table-responsive">
+        <table class="table-bordered table-hover table table-striped" style="width: 750px; color: black; margin: 10px 20px 80px 375px;">
+            <thead>
+                <tr>
+                    <th style="width: 880px;">Capitulo</th>
+                    <th>Enlace</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>
+                            <div class="btn-toolbar">
+                                <button class="btn btn-info">@Html.ActionLink("Play", "Ver", new { id = item.ID }, new { @class = "btn-info" })</button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

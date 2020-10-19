@@ -31,5 +31,16 @@ namespace AnimeFLV.Models
                 return serializer.Deserialize<List<Series>>(content);
             }
         }
+
+        public List<Capitulos> Capitulos
+        {
+            get
+            {
+                var serializer = new JavaScriptSerializer();
+                var file = HttpContext.Current.Server.MapPath("~/App_Data/capitulos.txt");
+                var content = File.ReadAllText(file);
+                return serializer.Deserialize<List<Capitulos>>(content);
+            }
+        }
     }
 }

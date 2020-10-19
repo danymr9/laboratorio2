@@ -96,8 +96,11 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Recursos\img\dark-honeycomb.png" />
+    <Content Include="Recursos\img\geometric-leaves.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="App_Data\capitulos.txt" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -150,6 +153,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
     <Content Include="Views\Home\Categorias.cshtml" />
     <Content Include="Views\Home\Series.cshtml" />
+    <Content Include="Views\Home\Capitulos.cshtml" />
+    <Content Include="Views\Home\Ver.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -159,7 +164,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Recursos\iconos\" />
-    <Folder Include="Recursos\img\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">

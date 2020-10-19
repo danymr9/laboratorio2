@@ -27,7 +27,7 @@ VSMacros80
 *.userosscache
 *.sln.docstates
 AnimeFLV/.vs/AnimeFLV/v16/.suo
-/AnimeFLV/AnimeFLV/obj/Debug/AnimeFLV.csprojAssemblyReference.cache
+AnimeFLV/AnimeFLV/obj/Debug/AnimeFLV.csprojAssemblyReference.cache
 
 # Build results
 [Dd]ebug/

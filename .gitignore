@@ -12,6 +12,16 @@ nupkg/
 .idea
 
 # User-specific files
+*.pdb  
+*.exe  
+*.dll  
+debug/*  
+release/*   
+obj/*  
+bin/*  
+obj  
+bin  
+VSMacros80
 *.suo
 *.user
 *.userosscache

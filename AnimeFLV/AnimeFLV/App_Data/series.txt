@@ -4,6 +4,7 @@
       "Name":"Magatsu Wahrheit: Zuerst",
       "Synopsis":"La historia se centrará en dos jóvenes que viven y trabajan en el Imperio Wahrheit: Inumael, un joven empleado de una agencia de transportes, y Leocadio, un soldado inexperto que trabaja en el ejército imperial. Inumael está preocupado por cuidar de su hermana, mientras que Leocadio sueña con alcanzar el éxito en su profesión. El destino de ambos se cruzará tras cierto robo y deberán lidiar con una profecía que advierte de la resurrección de las luces, un fenómeno que eras atrás liberó a monstruos y estuvo a punto de acabar con la humanidad.",
       "ImagePath":"Recursos/img/Accion_MWZ.jpg",
+      "EstadoId:":1,
       "CategoryId":1
    },
    {
@@ -11,6 +12,7 @@
       "Name":"Akudama Drive",
       "Synopsis":"En esta historia, hace mucho tiempo las regiones de Kanto y Kansai tuvieron una guerra que dividió el mundo. Pero al final de la guerra, Kansai perdió y juró lealtad a Kanto. No obstante, el gobierno y la fuerza policial de Kansai no aceptaron la derrota, por lo que el crimen dominó la región. A estos criminales se les conoce como Akudama.",
       "ImagePath":"Recursos/img/Accion_Akudama.jpg",
+      "EstadoId:":2,
       "CategoryId":1
    },
    {
@@ -18,6 +20,7 @@
       "Name":"Senyoku no Sigrdrifa",
       "Synopsis":"En esta historia los Pilares súbitamente aparecieron en la Tierra, amenazando a todas las formas de vida. Un dios que se identificó como Odín apareció para auxiliar a la humanidad, que estaba al borde de la derrota. Para enfrentar a los Pilares, Odín declaró un contraataque al otorgar a la humanidad el poder de las doncellas de batalla Valkyrie. Varios años después, la batalla entre la humanidad y los Pilares continúa, con hombres que apoyan a las Valkyrie mientras se elevan a través de los cielos para salvar el mundo. Japón no es la excepción, con tres Valkyrie confrontando a un Pilar que se cierne sobre el Monte Fuji. Cada Valkyrie es bastante hábil, pero también tienen sus problemas. Y ahora, una piloto ha llegado desde Europa.",
       "ImagePath":"Recursos/img/Accion_Senyoku.jpg",
+      "EstadoId:":3,
       "CategoryId":1
    },
    {
@@ -25,6 +28,7 @@
       "Name":"Burn the Witch",
       "Synopsis":"Históricamente, 72% de las muertes en Londres están relacionadas con los dragones, criaturas fantásticas invisibles para la mayoría de la población. Mientras son desconocidas para muchos, algunas personajes han estado enfrentando a estas criaturas.",
       "ImagePath":"Recursos/img/Accion_BurntheWitch.jpg",
+      "EstadoId:":1,
       "CategoryId":1
    },
    {
@@ -32,6 +36,7 @@
       "Name":"Jujutsu Kaisen (TV)",
       "Synopsis":"Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
       "ImagePath":"Recursos/img/Accion_JujutsuKaisen(TV).jpg",
+      "EstadoId:":2,
       "CategoryId":1
    },
    {
@@ -39,6 +44,7 @@
       "Name":"Gibiate",
       "Synopsis":"Año 2030: Japón. Un virus ha infectado a los humanos en todo el mundo. Los infectados se convierten en monstruos de acuerdo con sus edades, sexos y razas. El virus fue llamado “Gibia”. Justo entonces, un samurái y un ninja aparecen en este Japón desolado. Ambos viajaron desde el antiguo periodo Edo, y lucharán en conjunto para ayudar a un doctor a encontrar la cura contra la Gibia. Enfrentándose a múltiples e incesantes monstruos productos del Gibia y contra varios sobrevivientes que buscan alimento, comenzarán el peligroso viaje para resolver este conflicto mundial.",
       "ImagePath":"Recursos/img/Accion_Gibiate.jpg",
+      "EstadoId:":3,
       "CategoryId":1
    }
 ]

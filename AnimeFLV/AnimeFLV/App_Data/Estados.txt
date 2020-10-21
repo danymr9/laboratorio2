@@ -1,0 +1,14 @@
+[
+   {
+      "ID":1,
+      "Name":"Emisión"
+   },
+   {
+      "ID":2,
+      "Name":"Pausa"
+   },
+   {
+      "ID":3,
+      "Name":"Finalizado"
+   }
+]

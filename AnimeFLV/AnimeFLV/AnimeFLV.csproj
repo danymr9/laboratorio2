@@ -87,6 +87,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Estados.txt" />
     <Content Include="App_Data\series.txt" />
     <Content Include="App_Data\categories.txt" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -121,6 +122,7 @@
     </Compile>
     <Compile Include="Models\Capitulos.cs" />
     <Compile Include="Models\Categorias.cs" />
+    <Compile Include="Models\Estados.cs" />
     <Compile Include="Models\Repository.cs" />
     <Compile Include="Models\Series.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

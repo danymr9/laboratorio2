@@ -34,5 +34,22 @@ namespace AnimeFLV.Controllers
             ViewBag.NameCategory = repo.Categorias.FirstOrDefault(x => x.ID == id).Name;
             return View(values);
         }
+
+        public ActionResult Capitulos(int id)
+        {
+            List<Series> Serie = repo.Series.Where(x => x.ID == id).ToList();
+            List<Capitulos> values = repo.Capitulos.Where(c => c.SerieId == id).ToList();
+            ViewBag.NameSerie = repo.Series.FirstOrDefault(s => s.ID == id).Name;
+            ViewBag.ImagenSerie = repo.Series.FirstOrDefault(s => s.ID == id).ImagePath;
+            ViewBag.Description = repo.Series.FirstOrDefault(s => s.ID == id).Synopsis;
+            return View(values);
+        }
+
+        public ActionResult Ver(int id)
+        {
+            List<Capitulos> values = repo.Capitulos.Where(c => c.ID == id).ToList();
+            ViewBag.UrlSerie = repo.Capitulos.FirstOrDefault(s => s.ID == id).Url;
+            return View(values);
+        }
     }
 }

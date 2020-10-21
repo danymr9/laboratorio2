@@ -1,0 +1,7 @@
+[
+{"ID":1 ,"Name":"Capitulo 1","Url":"https://mega.nz/file/Dmx0VQQD#Fq715k711nJggHSQ4c0-QQw0HhmkYj6VjPwUh-4oYkM","SerieId":1},
+{"ID":2 ,"Name":"Capitulo 2","Url":"https://mega.nz/file/erJgWRBb#CSyh2OYdUBB2cQqpSVe9pvhjzrhioCEwCc7cX2txJz8","SerieId":2},
+{"ID":3 ,"Name":"Capitulo 1","Url":"https://mega.nz/file/OzoE1boa#fxMcJT7OLBwub3eKkASB3KhkrWIqtQFr35Jdr45iU1o","SerieId":4},
+{"ID":4 ,"Name":"Capitulo 2","Url":"https://mega.nz/file/62wAHbwY#6b0Gtyxz7UtlPqGxw77elmnKf7XNJU2ViGwz51whFtc","SerieId":4},
+{"ID":5 ,"Name":"Capitulo 3","Url":"https://mega.nz/file/HmwA1Jga#TrvTowE2uytM4NBgIiwgIjqw7keJzuHj6Zcumvf64mM","SerieId":4}
+]

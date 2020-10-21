@@ -1,12 +1,17 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background: #44a08d; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #44a08d, #093637); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #44a08d, #093637);
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.42);
 }
 
 /* Set width on the form input elements since they're 100% wide by default */
@@ -50,6 +55,7 @@ textarea {
 .content-title {
     height: 75px;
     padding: 25px;
+    width:100%;
     border: 0px solid #252A2C;
     background-color: #252A2C;
     font-size: 25px;
@@ -109,6 +115,4 @@ textarea {
     text-align: center;
     width: 75%;
 }
-
-
 

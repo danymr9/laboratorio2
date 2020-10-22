@@ -125,6 +125,7 @@
     <Content Include="Recursos\img\Espacial_RobiHachi.jpg" />
     <Content Include="Recursos\img\Espacial_Terra.jpg" />
     <Content Include="Recursos\img\Espacial_ēlDLIVE.jpg" />
+    <Content Include="Recursos\img\fondo.png" />
     <Content Include="Recursos\img\geometric-leaves.png" />
     <Content Include="Recursos\img\Infantil_category.jpg" />
     <Content Include="Recursos\img\Mecha_category.jpg" />

@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background: url("../Recursos/img/fondo.png");
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -8,7 +9,7 @@
     padding-left: 15px;
     padding-right: 15px;
     color: white;
-    background-color: rgba(0, 0, 0, 0.42);
+    background-color: rgba(0, 0, 0, 0.67);
 }
 
 /* Set width on the form input elements since they're 100% wide by default */

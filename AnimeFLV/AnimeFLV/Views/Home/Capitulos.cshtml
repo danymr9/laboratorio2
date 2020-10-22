@@ -13,7 +13,7 @@
                 <div class="caption">
                     <p>
                         <button class="btn btn-success" type="button" id="emi">
-                            <span class="fa-tv">EN EMISION</span>
+                            <span class="fa-tv">@ViewBag.estados</span>
                         </button>
                     </p>
                     <p></p>
@@ -53,7 +53,11 @@
                                     <td>@item.Name</td>
                                     <td>
                                         <div class="btn-toolbar">
-                                            <button class="btn btn-info">@Html.ActionLink("Play", "Ver", new { id = item.ID }, new { @class = "btn-info" })</button>
+                                            <button class="btn btn-info" style="height:30px;">
+                                                <a href="@Url.Action("Ver", new { id=item.ID })">
+                                                    <img src="~/Recursos/img/play42.png" />
+                                                </a>
+                                            </button>
                                         </div>
                                     </td>
                                 </tr>
@@ -64,4 +68,5 @@
             </div>
         </div>
     </div>
+</div>
 

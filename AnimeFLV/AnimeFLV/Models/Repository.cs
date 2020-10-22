@@ -42,5 +42,16 @@ namespace AnimeFLV.Models
                 return serializer.Deserialize<List<Capitulos>>(content);
             }
         }
+
+        public List<Estados> Estado
+        {
+            get
+            {
+                var serializer = new JavaScriptSerializer();
+                var file = HttpContext.Current.Server.MapPath("~/App_Data/Estados.txt");
+                var content = File.ReadAllText(file);
+                return serializer.Deserialize<List<Estados>>(content);
+            }
+        }
     }
 }

@@ -37,7 +37,6 @@ namespace AnimeFLV.Controllers
 
         public ActionResult Capitulos(int id)
         {
-            List<Series> Serie = repo.Series.Where(x => x.ID == id).ToList();
             List<Capitulos> values = repo.Capitulos.Where(c => c.SerieId == id).ToList();
             ViewBag.NameSerie = repo.Series.FirstOrDefault(s => s.ID == id).Name;
             ViewBag.ImagenSerie = repo.Series.FirstOrDefault(s => s.ID == id).ImagePath;

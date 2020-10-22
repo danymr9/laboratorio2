@@ -76,5 +76,24 @@
 		"Name":"Capitulo 3",
 		"Url":"https://streamium.xyz/gocdn.html#Yk1uWHJOaXlvVjE3anRJUmNIRlJiVUpQaVY3bUdveDFtQThGUElxN3k1Qjkxd1A1cHh3OWpYd1FQZlVlbWJEWE1GQlY0eEhKYWlpVzhtR2VhQ2NUeDlMTzVmVG1PS0lySU9Wa1NRMkFhZkRJS1pVeUMxdG1sbkF1TjlvT0JIMzU=",
 		"SerieId":5
+	},
+	{
+	"ID":14 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/1BoQLx2mk7UeAXz/",
+		"SerieId":6
+	},
+	{
+	"ID":15 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/P8mlbdbRggcxLL/",
+		"SerieId":6
+	},
+	{
+	"ID":16 ,
+		"Name":"Capitulo 3",
+		"Url":"https://embedsito.com/v/053yebl8el01py6",
+		"SerieId":6
 	}
+
 ]

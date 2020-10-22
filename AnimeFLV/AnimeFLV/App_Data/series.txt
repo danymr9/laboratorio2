@@ -49,255 +49,247 @@
    },
    {
       "ID":7,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"No Guns Life 2nd Season",
+      "Synopsis":"Segunda parte de No Guns Life",
+      "ImagePath":"Recursos/img/CienciaFiccion_NoGunsLife.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":2
    },
    {
       "ID":8,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Deca-Dence",
+      "Synopsis":"Han pasado muchos años desde que la humanidad fue llevada al borde de la extinción por la aparición repentina de las formas de vida desconocidas conocidas como Gadoll. Los humanos que sobrevivieron ahora viven en una fortaleza móvil de 3000 metros de altura construida para protegerse de la amenaza Gadoll. Los habitantes de Decadence se dividen en dos categorías: Gears, guerreros que luchan diariamente contra los Gadoll; y Tankers, aquellos sin las habilidades para luchar. Un día, Natsume, una chica Tanker que sueña con convertirse en un Gear, se encuentra con el herrero Kaburagi, un reparador de armaduras de Deca-dence. Esta reunión casual entre dos polos opuestos, la chica con una actitud positiva que nunca renuncia a sus sueños y un hombre realista que ha renunciado a los suyos, eventualmente sacudirá el curso futuro de este mundo.",
+      "ImagePath":"Recursos/img/CienciaFiccion_DecaDence.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":2
    },
    {
       "ID":9,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Listeners",
+      "Synopsis":"La gran sinfonía adolescente se desarrolla en un mundo donde no existe nada llamado música. Un chico se encuentra con Mu, una chica misteriosa con un conector de entrada de audio en su cuerpo. Cuando ella está enchufada a un amplificador, algo que cambiará el mundo se pone en marcha… Así comienza un viaje de sonido que nunca será olvidado",
+      "ImagePath":"Recursos/img/CienciaFiccion_Listeners.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":2
    },
    {
       "ID":10,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"ID:Invaded",
+      "Synopsis":"Situado en un mundo virtual, Sakaido, es un detective que busca resolver el horroroso misterio detrás del asesinato de Kaeru, una joven. Pero resolver este caso no será como nada que ha visto antes. Con el mundo retorciéndose a su alrededor, ¿podrá llegar al fondo del asunto?",
+      "ImagePath":"Recursos/img/CienciaFiccion_Invaded.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":2
    },
    {
      "ID":11,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Cop Craft",
+      "Synopsis":"La historia se desarrolla en la ciudad de San Teresa, en la isla ficticia de Kariaena ubicada en el Océano Pacífico. La serie de amigos policías y detectives sigue la historia del detective Kei Matoba y la caballero de un mundo alternativo, Tirana. Hace quince años, una puerta híperespacial desconocida se abrió sobre el Océano Pacífico. Más allá de esta puerta se encuentra Reto Semaani, un extraño mundo alternativo habitado por hadas y demonios. La ciudad de San Teresa es, por otra parte, una ciudad donde viven más de dos millones de inmigrantes de ambos mundos. Como resultado, la distribución de la riqueza no es equitativa. Aquí está la ciudad de los sueños más reciente en el mundo. Pero a la sombra de este nombre, el crimen es rampante: drogas, prostitución y tráfico de armas. Los detectives que hacen frente a estos crímenes atroces están en el Departamento de Policía de la ciudad de San Teresa. Cuando el detective Kei Matoba y la caballero del mundo alternativo, Tirana; dos individuos que no sólo difieren en género, sino también en personalidad e incluso en su mundo de origen se encuentran, surge un incidente. Dos mundos. Dos jueces. A partir de esto, el telón se levanta en una nueva historia policíaca y dos amigos contra el crimen.",
+      "ImagePath":"Recursos/img/CienciaFiccion_Cop.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":2
    },
    {
       "ID":12,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Psycho-Pass 3",
+      "Synopsis":"En un futuro próximo, es posible medir de forma instantánea el estado mental de una persona, la personalidad y la probabilidad de que dicha persona vaya a cometer delitos gracias a un escáner psico-somático que realiza un escaneo de las funciones del cerebro y demás funciones biológicas y químicas del cuerpo, determinando el Psycho-Pass, un número asociado a un matiz en cada persona. Cuando esta probabilidad, medida como el índice de Coeficiente de Criminalidad, es demasiado alta, es decir, posee un matiz muy oscuro y un número muy elevado, los individuos son perseguidos y detenidos con fuerza letal si es necesario.",
+      "ImagePath":"Recursos/img/CienciaFiccion_Psycho.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":2
    },
 
    {
       "ID":13,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Taisou Zamurai",
+      "Synopsis":"La historia se desarrolla en el año 2002 y se centra en el alguna vez imbatible equipo de gimnasia masculino de Japón. Shoutarou Aragaki, el ex-miembro del equipo japonés que dedicó su vida a la gimnasia, ya no puede competir con sus expectativas. A pesar de que sigue entrenando sin descanso día a día, su entrenador Amakusa le aconseja que se dé por vencido. Sin embargo, cierto encuentro alterará el triste destino de Aragaki.",
+      "ImagePath":"Recursos/img/Deportes_TaisouZamurai.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":3
    },
    {
       "ID":14,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Umayon",
+      "Synopsis":"En un mundo muy parecido al nuestro, los grandes caballos de carreras del pasado recibieron la oportunidad de renacer como “uma musume”, chicas con las orejas y la cola de un caballo, pero que también cuentan con su velocidad y resistencia. Las mejores de estas chicas tienen el privilegio de estudiar en la Academia Tracen en Tokio, con la esperanza de obtener fama y fortuna siendo tanto corredoras como idols.",
+      "ImagePath":"Recursos/img/Deportes_Umayon.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":3
    },
    {
       "ID":15,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Tamayomi",
+      "Synopsis":"En sus años de secundaria, la lanzadora Takeda Yomi no pudo llegar muy lejos en un torneo de béisbol interescolar. Como la catcher de su equipo no estaba a su nivel, no pudo usar su lanzamiento característico, su bola mágica y finalmente se arrepintió de no poder usarlo en su último partido. Al llegar a la preparatoria, decidió dejar de jugar béisbol y fue a la Preparatoria Shin Koshigaya, una escuela con el club de béisbol en pausa. Allí, encontró a su amiga de la infancia, Yamazaki Tamaki, a la cual le había perdido el rastro hace mucho tiempo y con la que solía jugar a la pelota cuando eran niñas. Tamaki también jugó béisbol durante sus años de secundaria, como catcher, e incluso pudo atrapar su Bola Mágica. ¿La promesa que se hicieron cuando eran pequeñas podrá cumplirse ahora?",
+      "ImagePath":"Recursos/img/Deportes_Tamayomi.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":3
    },
    {
       "ID":16,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Haikyuu!!: To the Top",
+      "Synopsis":"Shoyo Hinata ha querido jugar al voleibol desde que vio triunfar a un jugador de pequeña estatura en el Torneo Nacional cuando estaba en primaria. Por desgracia, cuando finalmente consiguió formar un equipo fue aplastado por su rival Tobio Kageyama. Al ingresar en el Instituto Karasuno, el mismo al que atendió su ídolo, Hinata se dispone a cumplir su sueño de jugar en un equipo de voleibol de primer nivel. El problema es que Kageyama, ya convertido en una promesa de este deporte, también forma parte de él. Pero, ¿es posible que la rivalidad entre ambos sea lo mejor que le ha pasado jamás al equipo? ¿Serán capaces de dejar de lado sus diferencias para formar una combinación legendaria que les permita alcanzar la gloria en el Torneo Nacional?",
+      "ImagePath":"Recursos/img/Deportes_Haikyuu.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":3
    },
    {
      "ID":17,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"number24",
+      "Synopsis":"La historia de rugby universitario la protagonizará Natsusa Yuzuki, quien espera llegar a ser el as del equipo de rugby al llegar a la universidad. Sin embargo, cuando comienza la universidad ya no puede jugar a rugby debido a ciertas circunstancias. Ibuki Ueoka es un estudiante mayor que él que dejó el rugby en su momento, mientras que Yasunari Tsuru es un estudiante más joven que desprecia por completo a Natsusa. Yu Mashiro es un estudiante joven que admira y sigue a Natsusa, mientras que Seiichiro Shingyo es un viejo amigo de Natsusa y con quien tiene gran amistad. Todos juntos competirán en la liga universitaria de rugby.",
+      "ImagePath":"Recursos/img/Deportes_number24.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":3
    },
    {
       "ID":18,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Hoshiai no Sora",
+      "Synopsis":"La historia juvenil gira en torno a los integrantes de un equipo del Club de Soft Tenis escolar que está a punto de cerrar. Toma Shinjou le pide a Maki Katsuragi que se una al equipo debido a sus habilidades, y menciona una competencia de verano. Sin embargo, Katsuragi pide dinero a cambio de unirse al equipo.",
+      "ImagePath":"Recursos/img/Deportes_Hoshiai.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":3
    },
 
    {
       "ID":19,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Kanata no Astra",
+      "Synopsis":"Aries Spring está muy emocionada con el primer día del Planet Camp. Ella y ocho desconocidos parten hacia el planeta McPa para una excursión que durará toda la semana, pero poco después de llegar, aparece un orbe que los transporta a las profundidades del espacio donde se ven varados en una nave espacial desconocida.",
+      "ImagePath":"Recursos/img/Espacial_Katana.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":4
    },
    {
       "ID":20,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"RobiHachi",
+      "Synopsis":"La historia se desarrollará en la Neo Tokyo del año 0051 G.C. (Galaxy Century), el cual marcará el primer medio siglo desde que la humanidad realizó contacto con otras razas. Los humanos obtuvieron la tecnología necesaria para viajar a la velocidad de la luz y han formado una comunidad de planetas en conjunto con los alienígenas. En este ambiente encontramos a Robby Yarge, un reportero freelance de unos 30 años que lleva una mala racha: primero lo despiden del trabajo por no poder cumplir lo pactado, su novia lo abandona, casi muere en un accidente de tráfico y sus deudas hacen que los matones acudan en su búsqueda. Un día un ladrón roba a Robby y un joven aparece para ayudarle. Es Hatchi Kita, un trabajador a medio tiempo de 18 años que atrapa al criminal y devuelve a Robby sus pertenencias. El reportero, agradecido, lo invita a comer, pero ambos no tardan en descubrir que no tienen nada en común y tras el agradecimiento, se despiden. No tardan en reencontrarse, puesto que Hatchi es cobrador de deudas para un matón llamado Yan y acaba teniendo que ir a buscar a Hatchi, con lo que comienza una persecución entre ambos por todo el espacio que acaba con Robby buscando Isekandar, un planeta distante en la Vía Láctea que se dice que hace feliz a cualquiera que vaya allí. Lo que no esperaba era encontrar a Hatchi en su nave, pero finalmente ambos decidirán recorrer juntos la galaxia buscando el legendario planeta.",
+      "ImagePath":"Recursos/img/Espacial_RobiHachi.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":4
    },
    {
       "ID":21,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"ēlDLIVE",
+      "Synopsis":"La historia gira en torno a Chuta Kokonose, un chico que siempre está mascullando y que no tiene muchos amigos. De hecho, las únicas conversaciones que ha mantenido últimamente son con las voces que resuenan en su cabeza. El pobre no sabe que en realidad esas voces no son señal de que se haya vuelto loco, sino de que… ¡Un alien está viviendo dentro de su cuerpo!",
+      "ImagePath":"Recursos/img/Espacial_ēlDLIVE.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":4
    },
    {
       "ID":22,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Macross Δ",
+      "Synopsis":"Cinco chicas conformarán la Unidad Táctica de Sonido Walküre, el que será el primer gran grupo exclusivamente femenino de la franquicia. El grupo Walküre luchará contra el Var Syndrome que está consumiendo la galaxia, apareciendo también el misterioso equipo de Valquirias conocido como los Caballeros Aéreos del Reino del Viento.",
+      "ImagePath":"Recursos/img/Espacial_Macross.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":4
    },
    {
      "ID":23,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Terra Formars: Revenge",
+      "Synopsis":"Con la Tierra cada vez más sobrepoblada, se pone en marcha un plan para terraformar Marte usando moho y cucarachas. Cerca de 500 años después de lanzar el plan, una misión a Marte, es enviada para ver los resultados del proyecto y para descubrir más sobre el extraño virus marciano que asola la Tierra. Todos los partícipes de la misión han recibido ADN de varias formas de vida en la Tierra para defenderse en Marte, puesto que las cucarachas en 500 años han evolucionado hasta convertirse en criaturas humanoides gigantes conocidas como Terraformars. ¡Llega la secuela de la serie que continúa con la historia!",
+      "ImagePath":"Recursos/img/Espacial_Terra.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":4
    },
    {
       "ID":24,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Aldnoah.Zero 2",
+      "Synopsis":"Segunda temporada de Aldnoah.Zero.",
+      "ImagePath":"Recursos/img/Espacial_Aldnoah.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":4
    },
 
    {
-      "ID":24,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
-      "EstadoId:":1,
-      "CategoryId":1
-   },
-   {
       "ID":25,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Digimon Adventure: (2020)",
+      "Synopsis":"Esta nueva serie de Digimon Adventure se desarrolla en el año 2020, una era en la que el mundo humano se encuentra conectado por una red, que a su vez conforma un Mundo Digital habitado por unas formas de vida desconocidas llamadas Digimon (abreviatura de Digital Monster). Este primer capítulo es protagonizado por Taichi Yagami y Koushiro Izumi, sin embargo, solo el primero es transportado al Mundo Digital. Allí, se encuentra con un Koromon el cual evoluciona a Agumon después de ser rescatado. Koushiro descubre que un conjunto de Digimon están interviniendo en las líneas digitales de la ciudad, y esto ha puesto en peligro a la madre y hermana de Taichi, que se encuentran viajando en tren. Agumon logra hacer frente a estas amenazas y todo parece ir bien, hasta que el último Digimon restante evoluciona y Agumon es incapaz de dañarlo. Gracias al apoyo de Taichi, Agumon vuelve a evolucionar, esta vez a Greymon, y destruye a la amenaza devolviendo a la ciudad del mundo real a la normalidad. Al cierre, se observa a un Garurumon montado por un misterioso chico.",
+      "ImagePath":"Recursos/img/Infantil_DigimonAdventure.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":5
    },
    {
       "ID":26,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Pokemon (2019)",
+      "Synopsis":"Nueva temporada de Pokémon, titulada como la serie original de 1997.",
+      "ImagePath":"Recursos/img/Infantil_Pokemon.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":5
    },
    {
       "ID":27,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Pokemon Generations",
+      "Synopsis":"Relleno.",
+      "ImagePath":"Recursos/img/Infantil_PokemonGenerations.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":5
    },
    {
-     "ID":28,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "ID":28,
+      "Name":"Pokemon Sun & Moon",
+      "Synopsis":"Satoshi y su Pikachu se dirigen a una nueva región, Alola, cambiando totalmente su atuendo. Él recibe un Anillo Z y se convierte en un estudiante.",
+      "ImagePath":"Recursos/img/Infantil_PokemonSun&Moon.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":5
    },
    {
-      "ID":29,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+     "ID":29,
+      "Name":"Pokemon XY&Z",
+      "Synopsis":"Sin comentario",
+      "ImagePath":"Recursos/img/Infantil_PokemonXY&Z.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":5
+   },
+   {
+      "ID":30,
+      "Name":"Fastening Days",
+      "Synopsis":"Yoji y Kei, viven en una ciudad en un futuro no tan distante con madre adoptiva, Anna. Pero estos niños aparentemente normales tienen un secreto escondido que incluso a su madre la tomará desprevenida.",
+      "ImagePath":"Recursos/img/Infantil_Fastening.jpg",
+      "EstadoId:":1,
+      "CategoryId":5
    },
 
    {
-      "ID":30,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
-      "EstadoId:":1,
-      "CategoryId":1
-   },
-   {
       "ID":31,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Promare",
+      "Synopsis":"En la historia de la película, hace 30 años un evento cataclísmico destruyó la mitad del mundo en llamas, causando una mutación que creo una nueva raza de humanos llamados Burnish. Los Burnish son capaces de crear y controlar el fuego. La película se centra en los miembros del escuadrón de bomberos Burninig Rescue, los cuales apagan en fuego causado por los Burnish. El nuevo novato del Burning Rescue es Galo, un hombre energético que posee Matoi-Tech, que lleva el nombre de las pancartas de matoi que usaban las unidades de bomberos del periodo Edo. Galo se encuentra con Lio, el líder de un grupo terrorista Burnish llamado Mad Burnish, lo que pone la historia en movimiento.",
+      "ImagePath":"Recursos/img/Mecha_Promare.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":6
    },
    {
       "ID":32,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Date A Live Ⅲ",
+      "Synopsis":"Tercera temporada de Date A Live",
+      "ImagePath":"Recursos/img/Mecha_DateALiveⅢ.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":6
    },
    {
       "ID":33,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"SSSS.Gridman",
+      "Synopsis":"La historia se sitúa en el ‘Computer World’ donde la guerra se libra en las computadoras. Tres chicos de secundaria apoyan al héroe Gridman en sus batallas a través de sus computadoras personales.",
+      "ImagePath":"Recursos/img/Mecha_SSSS.Gridman.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":6
    },
    {
-     "ID":34,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "ID":34,
+      "Name":"Planet With",
+      "Synopsis":"Kuroi Soya es un estudiante de preparatoria/instituto que lleva una vida tranquila pese a no recordar nada de su pasado. Un día su pueblo es atacado por una de las misteriosas Armas Nebula, una criatura gigante de aspecto extraño que aparece sobre el mar. Es entonces cuando las ¿personas? que lo acogieron, el gato gigante Profesor y la lolita gótica Ginko, le dan una misión: ¡combatir contra los siete héroes que aparecieron para proteger el pueblo! Pero ¿qué motivo tiene Soya para enfrentarlos? La clave está en sus recuerdos.",
+      "ImagePath":"Recursos/img/Mecha_PlanetWith.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":6
    },
    {
-      "ID":35,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+     "ID":35,
+      "Name":"ID-0",
+      "Synopsis":"En la historia, I-Machines es el nombre que se otorga a los robots que actúan en terreno hostil. La estudiante de la Alliance Academy Maya Mikuri está pilotando un I-Machine cuando se ve involucrada en un incidente relacionado con piratas y termina como miembro de la tripulación de una nave espacial perteneciente a una compañía de excavación.",
+      "ImagePath":"Recursos/img/Mecha_ID-0.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":6
    },
    {
       "ID":36,
-      "Name":"",
-      "Synopsis":"",
-      "ImagePath":"Recursos/img/.jpg",
+      "Name":"Knight's & Magic",
+      "Synopsis":"Un otaku de los mechas ve cumplido su sueño al morir en un accidente y reencarnarse en otro mundo como Ernesti Echevarria, o simplemente Eru. Pues aunque comienza una nueva vida, sigue recordando su pasión y hará todo lo posible para poder pilotar un Silhouette Knight, un robot que existe en su nueva realidad.",
+      "ImagePath":"Recursos/img/Mecha_Knight's&Magic.jpg",
       "EstadoId:":1,
-      "CategoryId":1
+      "CategoryId":6
    }
 
 ]

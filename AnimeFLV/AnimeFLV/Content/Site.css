@@ -1,9 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background: #44a08d; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #44a08d, #093637); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #44a08d, #093637);
+    background-image: url(~/Recursos/img/geometric-leaves.png);
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -115,4 +113,7 @@ textarea {
     text-align: center;
     width: 75%;
 }
-
+#navbar {
+    background-color: #2F353A;
+    height: 70px;
+}

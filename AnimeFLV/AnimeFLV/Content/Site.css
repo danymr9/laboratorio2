@@ -117,3 +117,10 @@ textarea {
     background-color: #2F353A;
     height: 70px;
 }
+#emi {
+    width: 240px;
+    height: 50px;
+}
+.thumbnail{
+    margin-top:15px;
+}

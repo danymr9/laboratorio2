@@ -80,7 +80,7 @@
       "CategoryId":2
    },
    {
-     "ID":11,
+      "ID":11,
       "Name":"Cop Craft",
       "Synopsis":"La historia se desarrolla en la ciudad de San Teresa, en la isla ficticia de Kariaena ubicada en el Océano Pacífico. La serie de amigos policías y detectives sigue la historia del detective Kei Matoba y la caballero de un mundo alternativo, Tirana. Hace quince años, una puerta híperespacial desconocida se abrió sobre el Océano Pacífico. Más allá de esta puerta se encuentra Reto Semaani, un extraño mundo alternativo habitado por hadas y demonios. La ciudad de San Teresa es, por otra parte, una ciudad donde viven más de dos millones de inmigrantes de ambos mundos. Como resultado, la distribución de la riqueza no es equitativa. Aquí está la ciudad de los sueños más reciente en el mundo. Pero a la sombra de este nombre, el crimen es rampante: drogas, prostitución y tráfico de armas. Los detectives que hacen frente a estos crímenes atroces están en el Departamento de Policía de la ciudad de San Teresa. Cuando el detective Kei Matoba y la caballero del mundo alternativo, Tirana; dos individuos que no sólo difieren en género, sino también en personalidad e incluso en su mundo de origen se encuentran, surge un incidente. Dos mundos. Dos jueces. A partir de esto, el telón se levanta en una nueva historia policíaca y dos amigos contra el crimen.",
       "ImagePath":"Recursos/img/CienciaFiccion_Cop.jpg",
@@ -95,7 +95,6 @@
       "EstadoId:":1,
       "CategoryId":2
    },
-
    {
       "ID":13,
       "Name":"Taisou Zamurai",
@@ -129,7 +128,7 @@
       "CategoryId":3
    },
    {
-     "ID":17,
+      "ID":17,
       "Name":"number24",
       "Synopsis":"La historia de rugby universitario la protagonizará Natsusa Yuzuki, quien espera llegar a ser el as del equipo de rugby al llegar a la universidad. Sin embargo, cuando comienza la universidad ya no puede jugar a rugby debido a ciertas circunstancias. Ibuki Ueoka es un estudiante mayor que él que dejó el rugby en su momento, mientras que Yasunari Tsuru es un estudiante más joven que desprecia por completo a Natsusa. Yu Mashiro es un estudiante joven que admira y sigue a Natsusa, mientras que Seiichiro Shingyo es un viejo amigo de Natsusa y con quien tiene gran amistad. Todos juntos competirán en la liga universitaria de rugby.",
       "ImagePath":"Recursos/img/Deportes_number24.jpg",
@@ -144,7 +143,6 @@
       "EstadoId:":1,
       "CategoryId":3
    },
-
    {
       "ID":19,
       "Name":"Kanata no Astra",
@@ -178,7 +176,7 @@
       "CategoryId":4
    },
    {
-     "ID":23,
+      "ID":23,
       "Name":"Terra Formars: Revenge",
       "Synopsis":"Con la Tierra cada vez más sobrepoblada, se pone en marcha un plan para terraformar Marte usando moho y cucarachas. Cerca de 500 años después de lanzar el plan, una misión a Marte, es enviada para ver los resultados del proyecto y para descubrir más sobre el extraño virus marciano que asola la Tierra. Todos los partícipes de la misión han recibido ADN de varias formas de vida en la Tierra para defenderse en Marte, puesto que las cucarachas en 500 años han evolucionado hasta convertirse en criaturas humanoides gigantes conocidas como Terraformars. ¡Llega la secuela de la serie que continúa con la historia!",
       "ImagePath":"Recursos/img/Espacial_Terra.jpg",
@@ -193,7 +191,6 @@
       "EstadoId:":1,
       "CategoryId":4
    },
-
    {
       "ID":25,
       "Name":"Digimon Adventure: (2020)",
@@ -227,7 +224,7 @@
       "CategoryId":5
    },
    {
-     "ID":29,
+      "ID":29,
       "Name":"Pokemon XY&Z",
       "Synopsis":"Sin comentario",
       "ImagePath":"Recursos/img/Infantil_PokemonXY&Z.jpg",
@@ -242,7 +239,6 @@
       "EstadoId:":1,
       "CategoryId":5
    },
-
    {
       "ID":31,
       "Name":"Promare",
@@ -276,7 +272,7 @@
       "CategoryId":6
    },
    {
-     "ID":35,
+      "ID":35,
       "Name":"ID-0",
       "Synopsis":"En la historia, I-Machines es el nombre que se otorga a los robots que actúan en terreno hostil. La estudiante de la Alliance Academy Maya Mikuri está pilotando un I-Machine cuando se ve involucrada en un incidente relacionado con piratas y termina como miembro de la tripulación de una nave espacial perteneciente a una compañía de excavación.",
       "ImagePath":"Recursos/img/Mecha_ID-0.jpg",
@@ -290,6 +286,389 @@
       "ImagePath":"Recursos/img/Mecha_Knight's&Magic.jpg",
       "EstadoId:":1,
       "CategoryId":6
+   },
+   {
+      "ID":53,
+      "Name":"Gintama",
+      "Synopsis":"En plena época de los samurái, los alienígenas (conocidos como Amanto) invadieron Japón y, pese a la resistencia de varios fieros guerreros Joui, consiguieron tomar el país, llevando a Edo hasta una etapa de esplendor medio futurista. En medio de todo esto está Gintoki, samurái que luchó en la guerra contra los Amanto, pero que ahora se dedica a hacer cualquier trabajo que se le encargue en la Yorozuya, su oficina de chico para todo.",
+      "ImagePath":"Recursos/img/Parodia_Gintama.png",
+      "EstadoId:":1,
+      "CategoryId":7
+   },
+   {
+      "ID":54,
+      "Name":"Gakuen Handsome",
+      "Synopsis":"Este romance de instituto se sitúa en el Instituto Baramon, un colegio privado masculino reservado para la élite. El protagonista se transfiere a él y en su campus conoce a varios personajes, como el profesor anti-reglas, el (capitán del equipo de fútbol) o el (amigo de la infancia que no había visto desde hace siete años). El instituto presenta oportunidades para la amistad, el amor y los conflictos. El eslogan del juego es (Cada vez que salías de las puertas del colegio, estabas guapo).",
+      "ImagePath":"Recursos/img/Parodia_Gakuen.png",
+      "EstadoId:":1,
+      "CategoryId":7
+   },
+   {
+      "ID":55,
+      "Name":"One Punch Man Specials",
+      "Synopsis":"a primera OVA (Shinobiyori Sugiru Kage), con una duración de 12 minutos, contará una historia completamente original del autor del manga originaL, ONE. La OVA tiene lugar después de la lucha de Saitama con Mosquito Girl y sigue a Genos tratando de averiguar, de forma persistente, el secreto de la fuerza de Saitama. Además, aparece una persona con (cierta razón) para tener rencor a Saitama. La segunda OVA (Hanashibeta-sugiru Deshi) también contará con una nueva historia de ONE. En este capítulo, Geno llega a un acuerdo con la banda de mafiosos de Don Pacino mientras avanzan las negociaciones con Saitama.",
+      "ImagePath":"Recursos/img/Parodia_Punch.png",
+      "EstadoId:":3,
+      "CategoryId":7
+   },
+   {
+      "ID":56,
+      "Name":"Hetalia:The World Twinkle",
+      "Synopsis":"N/A",
+      "ImagePath":"Recursos/img/Parodia_Hetalia.png",
+      "EstadoId:":2,
+      "CategoryId":7
+   },
+   {
+      "ID":57,
+      "Name":"Genshiken Nidaime",
+      "Synopsis":"El anime sigue la vida de un grupo de Otakus universitarios pertenecientes al club (La Sociedad por el Estudio de la Cultura Visual Moderna).",
+      "ImagePath":"Recursos/img/Parodia_Genshiken.png",
+      "EstadoId:":3,
+      "CategoryId":7
+   },
+   {
+      "ID":58,
+      "Name":"Senyu Dai 2 Ki",
+      "Synopsis":"Un día de la nada en nuestro mundo, aparece un gigantesco agujero, de los que emergen distintos demonios. El Rey de nuestro mundo piensa que es el presagio del regreso del Gran Rey Demonio Rukimedsu, quien fue sellado originalmente por el héroe Kureashion hace mil años. Tras este acontecimiento el rey decreta que se presenten ante el los descendientes del héroe, a lo que aparecen 75 descendientes. Al final el héroe numero #45 llamado Aruba (o Alba, interpretado por Hiro Shimono), y Rosu ( o Ross, interpretado por Yuichi Nakamura) guerrero del palacio un poco sádico, unen sus fuerzas y ahí comienza la historia.",
+      "ImagePath":"Recursos/img/Parodia_Senyu2.png",
+      "EstadoId:":2,
+      "CategoryId":7
+   },
+   {
+      "ID":59,
+      "Name":"Senyu",
+      "Synopsis":"En la historia, de repente aparece en el mundo un enorme agujero del que comienzan a surgir demonios. El rey piensa que es una señal del retorno del gran rey demonio Rukimedsu, que fue sellado por el héroe Kureashion un milenio atrás. El rey decide que los descendientes del héroe han de encargarse de la amenaza y para ello aparecen 75 personas con su sangre. El héroe número 45, Aruba, y un guerrero de palacio bastante sádico unen fuerzas y ahí, comenzará su aventura.",
+      "ImagePath":"Recursos/img/Parodia_Senyu.png",
+      "EstadoId:":3,
+      "CategoryId":7
+   },
+   {
+      "ID":60,
+      "Name":"Gintama 2015",
+      "Synopsis":"N/A",
+      "ImagePath":"Recursos/img/Parodia_Gintama2.png",
+      "EstadoId:":3,
+      "CategoryId":7
+   },
+   {
+      "ID":61,
+      "Name":"Adachi to Shimamura",
+      "Synopsis":"Adachi y Shimamura, dos chicas que asisten a la misma preparatoria y que son amigas inseparables. Ya sea jugando tenis, platicar sobre sus programas de televisión favoritos, o solo relajándose, siempre están juntas. Cuando Adachi se da cuenta de que siente una atracción física por Shimamura, toda su relación comenzará a cambiar, ¿será para bien o para mal?",
+      "ImagePath":"Recursos/img/Romence_Adachi.png",
+      "EstadoId:":1,
+      "CategoryId":8
+   },
+   {
+      "ID":62,
+      "Name":"Kanojo, Okarishimasu",
+      "Synopsis":"En Japón, los solitarios tienen una nueva opción; ¡un servicio online para rentar padres, hijos, e incluso novias! Cuando el amor platónico de Kazuya lo rechaza, él decide que está lo suficientemente desesperado para probar el servicio, y queda impactado cuando descubre lo hermosa que es su novia de alquiler. No obstante, ella quiere mantener su (relación) como un secreto, y hay un problema… ella asiste a su universidad… y sus abuelas viven en la misma casa… ¡y ellos son vecinos! Para su desgracia, Kazuya descubrirá que ella no es tan genial como aparenta…",
+      "ImagePath":"Recursos/img/Romence_Kanojo.png",
+      "EstadoId:":1,
+      "CategoryId":8
+   },
+   {
+      "ID":63,
+      "Name":"Arte",
+      "Synopsis":"Florencia del siglo XVI. El lugar de nacimiento del Renacimiento, donde el arte está prosperando. En un pequeño rincón de esta ciudad, comienza el viaje de Arte, una chica que sueña con convertirse en artista, una carrera imposible para una mujer nacida en una familia noble. En aquellos días, el arte era una profesión exclusivamente masculina, y las mujeres se enfrentaban ante una fuerte discriminación. A pesar de estos desafíos, Arte persevera en alcanzar su sueño con trabajo duro y una actitud positiva.",
+      "ImagePath":"Recursos/img/Romence_Arte.png",
+      "EstadoId:":2,
+      "CategoryId":8
+   },
+   {
+      "ID":64,
+      "Name":"Nami yo Kiitekure",
+      "Synopsis":"El escenario es Sapporo, Hokkaido. Una noche, nuestra heroína, Minare Koda, le cuenta sus aflicciones al director de una radio que conoce mientras bebía una noche. Al día siguiente, escucha que una grabación de sus lamentables quejas es reproducida en vivo en la radio. Minare irrumpe en la estación llena de rabia, solo para ser engañada por el director de la estación para improvisar un programa de entrevista donde explique su diálogo. Con una sola grabación, las muchas facetas de la excéntrica de la vida de Minare comenzarán a dirigirse hacia una dirección, mientras cae cada vez más en el mundo de la radio.",
+      "ImagePath":"Recursos/img/Romence_Nami.png",
+      "EstadoId:":2,
+      "CategoryId":8
+   },
+   {
+      "ID":65,
+      "Name":"Yesterday wo Utatte",
+      "Synopsis":"Después de la universidad, Rikuo Uozumi, un niño sin mucha ambición en la vida, toma un trabajo en una tienda de conveniencia. Los días pasan sin incidentes para Rikuo hasta que conoce a su ex novia y compañera de clase, pero especialmente gracias a la inusual Haru Nonaka y su mascota cuervo ...",
+      "ImagePath":"Recursos/img/Romence_Yesterday.png",
+      "EstadoId:":2,
+      "CategoryId":8
+   },
+   {
+      "ID":66,
+      "Name":"Nekopara (TV)",
+      "Synopsis":"La historia nos pone en la piel de Kashou Minaduki, quien va a abrir la pastelería “La Soleil” tras huir de la cadena familiar de repostería clásica japonesa de su familia. Tras finalizar la mudanza, descubre que con él han venido las chicas gato Chocola y Vanilla, que le harán la vida un poco más complicada a su amo en este divertida comedia.",
+      "ImagePath":"Recursos/img/Romence_Nekopara.png",
+      "EstadoId:":1,
+      "CategoryId":8
+   },
+   {
+      "ID":67,
+      "Name":"Hatena Illusion",
+      "Synopsis":"La serie se centra en Makoto Shiranui, un chico que viaja a Tokio para convertirse en el aprendiz de Mamoru Hoshisato, un mago famoso en todo el mundo y amigo de sus padres. Desde que había visto un espectáculo de Mamoru y su esposa Maeve, había soñado con ser un mago y gracias a la amistad de sus padres y los magos, Makoto es amigo de la infancia de Kana (apodada Hatena e hija de Mamoru y Maive). En el presente, Tokio sufre una ola de robos por parte de una bella ladrona, pero Makoto decide ir porque se siente tranquilo al estar cerca de Hatena. Sin embargo, cuando llega a la residencia Hoshisato, una mansión encantada, se percata que su relación con Hatena ha cambiado.",
+      "ImagePath":"Recursos/img/Romence_Hatena.png",
+      "EstadoId:":3,
+      "CategoryId":8
+   },
+   {
+      "ID":68,
+      "Name":"Val x Love",
+      "Synopsis":"Takuma Akutsu es un joven de preparatoria al que le aterroriza el contacto humano y solo quiere llevar una vida tranquila... idea que se desvanece por completo cuando nueve hermanas Valkyries llegan a su casa y se instalan a vivir en ella. El joven tendrá que criar a las chicas para aumentar su nivel y que puedan derrotar a los monstruos que amenazan a la humanidad. ¿Y cómo subir su nivel? ¡Haciendo cosas pervertidas con ellas!",
+      "ImagePath":"Recursos/img/Romence_Val.png",
+      "EstadoId:":3,
+      "CategoryId":8
+   },
+   {
+      "ID":69,
+      "Name":"Yuukoku no Moriarty",
+      "Synopsis":"El protagonista de la historia es James Moriarty, el famoso antagonista de la serie Sherlock Holmes de Sir Arthur Conan Doyle. En el manga, es un huérfano que asume el nombre de William James Moriarty cuando él y su hermano menor son adoptados en la familia Moriarty. Cuando es adulto, busca eliminar los males causados ​​por el estricto sistema de clases de Inglaterra.",
+      "ImagePath":"Recursos/img/Shounen_Yuukoku.png",
+      "EstadoId:":1,
+      "CategoryId":9
+   },
+   {
+      "ID":70,
+      "Name":"Munou na Nana",
+      "Synopsis":"Es el año 20XX. La Tierra fue asediada por monstruos autodeclarados como (enemigos de la humanidad). Para afrontar esta amenaza, se establecieron escuelas especiales que entrenan adolescentes con extraordinarias habilidades. Estas personas, quienes son conocidas como (Talentosos), poseen habilidades que desafían las leyes de la realidad y, entre ellos, se encuentra un caso atípico, un individuo que fue enviado a una de esas escuelas pero que no posee ninguna habilidad especial. Así comienza la historia de nuestra protagonista quien, en vez de utilizar la fuerza bruta, utilizará su inteligencia y su habilidad de manipulación para derrotar a sus enemigos.",
+      "ImagePath":"Recursos/img/Shounen_Munou.jpg",
+      "EstadoId:":1,
+      "CategoryId":9
+   },
+   {
+      "ID":71,
+      "Name":"Burn the Witch",
+      "Synopsis":"Históricamente, 72% de las muertes en Londres están relacionadas con los dragones, criaturas fantásticas invisibles para la mayoría de la población. Mientras son desconocidas para muchos, algunas personajes han estado enfrentando a estas criaturas.",
+      "ImagePath":"Recursos/img/Shounen_Burn.png",
+      "EstadoId:":1,
+      "CategoryId":9
+   },
+   {
+      "ID":72,
+      "Name":"Jujutsu Kaisen (TV)",
+      "Synopsis":"Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+      "ImagePath":"Recursos/img/Shounen_Jujutsu.png",
+      "EstadoId:":2,
+      "CategoryId":9
+   },
+   {
+      "ID":73,
+      "Name":"Kanojo, Okarishimasu",
+      "Synopsis":"En Japón, los solitarios tienen una nueva opción; ¡un servicio online para rentar padres, hijos, e incluso novias! Cuando el amor platónico de Kazuya lo rechaza, él decide que está lo suficientemente desesperado para probar el servicio, y queda impactado cuando descubre lo hermosa que es su novia de alquiler. No obstante, ella quiere mantener su (relación) como un secreto, y hay un problema… ella asiste a su universidad… y sus abuelas viven en la misma casa… ¡y ellos son vecinos! Para su desgracia, Kazuya descubrirá que ella no es tan genial como aparenta…",
+      "ImagePath":"Recursos/img/Shounen_Kanojo.png",
+      "EstadoId:":2,
+      "CategoryId":9
+   },
+   {
+      "ID":74,
+      "Name":"BAKI: dai reitaisai-hen",
+      "Synopsis":"El protagonista, Baki Hanma, entrena intensamente para ser tan fuerte como para superar a su padre, Yujiro Hanma, el luchador más fuerte del mundo. Cinco de los condenados a muerte más violentos y brutales del mundo se reúnen para enfrentar a Baki. Su objetivo es probar la derrota: su fuerza y ​​habilidad inigualables los han llevado a aburrirse de la vida misma, y ​​ahora buscan a Baki con la esperanza de que él pueda abrumarlos y aplastarlos por completo. En esta crisis, otros luchadores del arte marcial subterráneo se juntan para luchar al lado de Baki, se trata de Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh y Doppo Orochi. De esta forman, comienza un enfrentamiento épico entre presos condenados a muerte y Baki y sus amigos.",
+      "ImagePath":"Recursos/img/Shounen_BAKI.png",
+      "EstadoId:":2,
+      "CategoryId":9
+   },
+   {
+      "ID":75,
+      "Name":"Kakushigoto",
+      "Synopsis":"Esta comedia tiene como protagonista a Goto Kakushi, quien no quiere que su hija, Goto Hime, se entere de que es un autor de mangas algo vulgares. Una historia de amor y risas entre padre e hija.",
+      "ImagePath":"Recursos/img/Shounen_Kakushigoto.png",
+      "EstadoId:":3,
+      "CategoryId":9
+   },
+   {
+      "ID":76,
+      "Name":"Kyokou Suiri",
+      "Synopsis":"Cuando aún era una niña, Kotoko fue secuestrada por un yokai (una criatura que toma características humanas y animales). Estos espíritus la convirtieron en una poderosa intermediaria entre el mundo espiritual y el de los humanos, pero este poder tenía un precio: un ojo y una pierna. Ahora, años más tarde, vigila a los peligrosos yokai y va desarrollando sentimientos por un joven llamado Kuro, quien posee poderes curativos a causa de un incidente con un yokai y a quien le pide que se una al equipo para manejar a los renegados yokai, preservando la delgada línea entre la realidad y lo sobrenatural.",
+      "ImagePath":"Recursos/img/Shounen_Kyokou.png",
+      "EstadoId:":3,
+      "CategoryId":9
+   },
+   {
+      "ID":77,
+      "Name":"Jujutsu Kaisen (TV)",
+      "Synopsis":"Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+      "ImagePath":"Recursos/img/Terror_Jujutsu.png",
+      "EstadoId:":1,
+      "CategoryId":10
+   },
+   {
+      "ID":78,
+      "Name":"Gibiate",
+      "Synopsis":"Año 2030: Japón. Un virus ha infectado a los humanos en todo el mundo. Los infectados se convierten en monstruos de acuerdo con sus edades, sexos y razas. El virus fue llamado (Gibia). Justo entonces, un samurái y un ninja aparecen en este Japón desolado. Ambos viajaron desde el antiguo periodo Edo, y lucharán en conjunto para ayudar a un doctor a encontrar la cura contra la Gibia. Enfrentándose a múltiples e incesantes monstruos productos del Gibia y contra varios sobrevivientes que buscan alimento, comenzarán el peligroso viaje para resolver este conflicto mundial.",
+      "ImagePath":"Recursos/img/Terror_Gibiate.png",
+      "EstadoId:":1,
+      "CategoryId":10
+   },
+   {
+      "ID":79,
+      "Name":"Dorohedoro",
+      "Synopsis":"La trama se centra en Caiman, un chico que no recuerda quien era después de haber sido transformado por un hechicero. Esta transformación le dejó con la cabeza de un reptil y un deseo de descubrir la verdad sobre quién es realmente.",
+      "ImagePath":"Recursos/img/Terror_Dorohedoro.png",
+      "EstadoId:":1,
+      "CategoryId":10
+   },
+   {
+      "ID":80,
+      "Name":"Kyochuu Rettou Movie",
+      "Synopsis":"Después de un accidente de avión durante un viaje escolar, Oribe Mutsumi y sus compañeros de clase quedaron varados en una isla aparentemente desierta. Mutsumi encontró a los otros sobrevivientes y usó sus conocimientos para ayudarlos. Estos esperan a ser rescatados al menos en tres días, lo que no parece ser mucho tiempo. Sin embargo, Mutsumi no tuvo en cuenta el hecho de que la isla está poblada por gigantescos insectos asesinos. Su conocimiento de mariposas, avispas y demás, puede ser lo único que le ayude a que alguno de sus compañeros de clase sobreviva antes de ser rescatados.",
+      "ImagePath":"Recursos/img/Terror_Kyochuu.png",
+      "EstadoId:":2,
+      "CategoryId":10
+   },
+   {
+      "ID":81,
+      "Name":"Bem",
+      "Synopsis":"Bem, Bela y Belo son feos monstruos humanoides (yōkai) que luchan por la justicia. Los monstruos viven entre los humanos y los protegen del mal yōkai. Los tres se encuentran excluidos tanto de los humanos como de otros yōkai, pero continúan luchando con la esperanza de que algún día se conviertan en humanos.",
+      "ImagePath":"Recursos/img/Terror_Bem.png",
+      "EstadoId:":2,
+      "CategoryId":10
+   },
+   {
+      "ID":82,
+      "Name":"Kyochuu Rettou",
+      "Synopsis":"Mutsumi Oribe y sus compañeros de clase están volando para una excursión escolar, y su avión se estrella. Se adentran en una isla dominada por insectos gigantes. En esa isla … los humanos no son más que alimento para insectos.",
+      "ImagePath":"Recursos/img/Terror_Kyochuu2.png",
+      "EstadoId:":2,
+      "CategoryId":10
+   },
+   {
+      "ID":83,
+      "Name":"Yakusoku no Neverland",
+      "Synopsis":"Por mucho que los niños la quieran, ella no es su madre. Viven juntos, pero no son familiares de sangre. Grace Field es un hogar al que son enviados los niños que no tienen padres. Un hogar irreemplazable para los 38 niños que allí viven felices su día a día, como si fueran hermanos, aunque al inicio fueran completos desconocidos. Al menos así era hasta que cierto descubrimiento cambió sus vidas por completo...",
+      "ImagePath":"Recursos/img/Terror_Yakusoku.png",
+      "EstadoId:":3,
+      "CategoryId":10
+   },
+   {
+      "ID":84,
+      "Name":"Happy Sugar Life",
+      "Synopsis":"Una hermosa estudiante de instituto llamada Satou Matsuzaka cree haber descubierto el verdadero significado del amor tras empezar a vivir con una chica que se encuentra en la calle. Hasta entonces, Satou nunca había rechazado a los chicos que se interesaban por ella y tenía fama de ser una “chica fácil”, pero todo cambia cuando conoce a Shio, cuya edad e historia personal no están nada claras. Cuando están juntas, Satou experimenta un sentimiento muy dulce que entiende que es amor. Con tal de proteger este sentimiento, está dispuesta a hacer cualquier cosa… incluso aunque eso signifique tener que asesinar a alguien.",
+      "ImagePath":"Recursos/img/Terror_Happy.png",
+      "EstadoId:":3,
+      "CategoryId":10
+   },
+   {
+      "ID":37,
+      "Name":"BAKI: dai reitaisai-hen",
+      "Synopsis":"El protagonista, Baki Hanma, entrena intensamente para ser tan fuerte como para superar a su padre, Yujiro Hanma, el luchador más fuerte del mundo. Cinco de los condenados a muerte más violentos y brutales del mundo se reúnen para enfrentar a Baki. Su objetivo es probar la derrota: su fuerza y ​​habilidad inigualables los han llevado a aburrirse de la vida misma, y ​​ahora buscan a Baki con la esperanza de que él pueda abrumarlos y aplastarlos por completo. En esta crisis, otros luchadores del arte marcial subterráneo se juntan para luchar al lado de Baki, se trata de Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh y Doppo Orochi. De esta forman, comienza un enfrentamiento épico entre presos condenados a muerte y Baki y sus amigos.",
+      "ImagePath":"Recursos/img/ArtesMarciales_BAKI.png",
+      "EstadoId:":1,
+      "CategoryId":11
+   },
+   {
+      "ID":38,
+      "Name":"Gibiate",
+      "Synopsis":"Año 2030: Japón. Un virus ha infectado a los humanos en todo el mundo. Los infectados se convierten en monstruos de acuerdo con sus edades, sexos y razas. El virus fue llamado (Gibia). Justo entonces, un samurái y un ninja aparecen en este Japón desolado. Ambos viajaron desde el antiguo periodo Edo, y lucharán en conjunto para ayudar a un doctor a encontrar la cura contra la Gibia. Enfrentándose a múltiples e incesantes monstruos productos del Gibia y contra varios sobrevivientes que buscan alimento, comenzarán el peligroso viaje para resolver este conflicto mundial.",
+      "ImagePath":"Recursos/img/ArtesMarciales_Gibiate.png",
+      "EstadoId:":1,
+      "CategoryId":11
+   },
+   {
+      "ID":39,
+      "Name":"Hinomaruzumou",
+      "Synopsis":"El sumo es algo más que un arte marcial, ¡es un ritual divino! Prepárate para disfrutar de toda la emoción y sudar como nunca con el mundo del sumo. Ushio Hinomaru puede ser pequeño de tamaño, pero está dispuesto a demostrar su valía en el ring. El problema es que el sumo es un deporte donde tu peso y tamaño son muy importantes y dependes directamente de ellos, con lo que su pasión no bastará para compensar su poca envergadura. ¡Da inicio la batalla por el Hinoshita Kaisan!",
+      "ImagePath":"Recursos/img/ArtesMarciales_Hinomaruzumou.png",
+      "EstadoId:":1,
+      "CategoryId":11
+   },
+   {
+      "ID":40,
+      "Name":"Dragon Ball Heroes",
+      "Synopsis":"En mayo de 2018, se anunció un anime promocional para Dragon Ball Heroes. Se adaptará de los arcos de Supervivencia del Universo y Planeta de Prisión. Dragon Ball Heroes es un juego de cartas arcade comercial japonés basado en la franquicia de Dragon Ball.",
+      "ImagePath":"Recursos/img/ArtesMarciales_DragonBall.png",
+      "EstadoId:":2,
+      "CategoryId":11
+   },
+   {
+      "ID":41,
+      "Name":"Boruto: Naruto Next Generations",
+      "Synopsis":"Esta es una secuela de las series de Naruto, la cual sigue la historia de Boruto el hijo de Naruto. La aldea oculta de la hoja ha continuado su moderinización pero siempre manateniendo la paz. Carros eléctricos recorren toda la ciudad conectada por distritos llenos de rascacielos con enormes monitores mostrando todo tipo de imágenes. En esta era, la aldea oculta de la hoja es ahora una cuidad ninja solo en nombre ya que ahora muchas personas normales han venido a vivir aquí. También el estilo de vida de los ninjas ha cambiado... Boruto, el hijo del séptimo Hokage y el actual lider de la aldea, se ha matriculado en la academia ninja para aprender todo sobre lo que necesita saber en las artes ninjas. Los estudiantes que rodean a Boruto se refieren a él como (el hijo del Hokage), pero Boruto con su peculiar personalidad se hará un nombre por él mismo. Boruto encontrá nuevos amigos y aliados, pero ¿cómo podrá lidear con todos esos misteriorsos incidentes que se le presentarán? Es así como comienza la historia de Boruto Uzumaki.",
+      "ImagePath":"Recursos/img/ArtesMarciales_Boruto.png",
+      "EstadoId:":2,
+      "CategoryId":11
+   },
+   {
+      "ID":42,
+      "Name":"Boruto: Naruto the Movie",
+      "Synopsis":"Movie",
+      "ImagePath":"Recursos/img/ArtesMarciales_BorutoMovie.png",
+      "EstadoId:":2,
+      "CategoryId":11
+   },
+   {
+      "ID":43,
+      "Name":"Dragon Ball Super Latino",
+      "Synopsis":"Después de derrotar a Majin Buu, la vida vuelve a ser tranquila una vez más. Goku vuelve a trabajar otra vez ya que Chichi le ordena que gane dinero, aunque él quiere seguir entrenando. Mientras, Goten, a punto de convertirse en cuñado de Videl, se embarca en un viaje con Trunks para encontrar un regalo para ella.",
+      "ImagePath":"Recursos/img/ArtesMarciales_DragonSuper.png",
+      "EstadoId:":3,
+      "CategoryId":11
+   },
+   {
+      "ID":44,
+      "Name":"Dragon Ball Z Pelicula 15",
+      "Synopsis":"La tierra está viviendo una época de paz por muchos años, Goku y sus amigos se encuentran pasando una vida tranquila, sin embargo la paz no será duradera y es que desde el espacio exterior un antiguo enemigo volverá a hacer su aparición. Y es que Freezer ha conseguido volver a la vida y su mayor deseo es vengarse de Goku quien no sólo le dio una paliza sino que también acabó con su orgullo. Freezer no regresará solo a la tierra sino que una serie de soldados muy poderosos harán su aparición para ayudar a Freezer a cumplir sus planes…",
+      "ImagePath":"Recursos/img/ArtesMarciales_DragonBallZ.png",
+      "EstadoId:":3,
+      "CategoryId":11
+   },
+   {
+      "ID":45,
+      "Name":"Dokyuu Hentai HxEros",
+      "Synopsis":"En un mundo al borde de un gran desastre que comenzó hace cinco años, existen héroes que, con la ayuda de un dispositivo llamado HxEros, usan el poder Ecchi (H) y Erótico (Ero) para salvar el planeta de los monstruos libidinosos. Enjo Retto y Hoshino Kirara son amigos de la infancia que se han separado. Un día, se ven atrapados en una batalla contra un Censor Bug que se alimenta de la energía sexual de los humanos. Después de derrotarlo exitosamente, se unen a otro grupo de héroes y usarán el poder erótico del HxEROS para salvar el mundo.",
+      "ImagePath":"Recursos/img/Comedia_Dokyuu.png",
+      "EstadoId:":1,
+      "CategoryId":12
+   },
+   {
+      "ID":46,
+      "Name":"Appare-Ranman!",
+      "Synopsis":"La historia se desarrollará al final del siglo XIX, cerca ya del inicio del nuevo siglo. Tras ciertas circunstancias, el brillante pero socialmente inepto ingeniero Sorano Appare y el cobarde samurái Isshiki Kosame, se encuentran en un barco que va de Japón a América. Ambos deciden competir en la Trans-America Wild Race para hacerse con su primer premio y regresar a Japón. Así, ambos enfrentarán a rivales tarados, criminales y al propio entorno en una carrera salvaje por el viejo Oeste que irá desde su salida en Los Ángeles hasta la meta en Nueva York... en un coche a vapor que ellos mismos construyen.",
+      "ImagePath":"Recursos/img/Comedia_Appare.png",
+      "EstadoId:":1,
+      "CategoryId":12
+   },
+   {
+      "ID":47,
+      "Name":"Houkago Teibou Nisshi",
+      "Synopsis":"Tsurugi Hina es una estudiante de primer año en preparatoria costera y que se considera a sí misma como inferior a los demás. Caminando a lo largo del terraplén, se encuentra con una senpai llamada Kuroiwa, quien la invita a unirse al club Rompeolas y comenzar a pescar. Rodeada de excéntricos miembros, ¿cómo será la vida en preparatoria de Hina?",
+      "ImagePath":"Recursos/img/Comedia_Houkago.png",
+      "EstadoId:":1,
+      "CategoryId":12
+   },
+   {
+      "ID":48,
+      "Name":"Digimon Adventure:(2020)",
+      "Synopsis":"Esta nueva serie de Digimon Adventure se desarrolla en el año 2020, una era en la que el mundo humano se encuentra conectado por una red, que a su vez conforma un Mundo Digital habitado por unas formas de vida desconocidas llamadas (Digimon) (abreviatura de Digital Monster). Este primer capítulo es protagonizado por Taichi Yagami y Koushiro Izumi, sin embargo, solo el primero es transportado al Mundo Digital. Allí, se encuentra con un Koromon el cual evoluciona a Agumon después de ser rescatado. Koushiro descubre que un conjunto de Digimon están interviniendo en las líneas digitales de la ciudad, y esto ha puesto en peligro a la madre y hermana de Taichi, que se encuentran viajando en tren. Agumon logra hacer frente a estas amenazas y todo parece ir bien, hasta que el último Digimon restante evoluciona y Agumon es incapaz de dañarlo. Gracias al apoyo de Taichi, Agumon vuelve a evolucionar, esta vez a Greymon, y destruye a la amenaza devolviendo a la ciudad del mundo real a la normalidad. Al cierre, se observa a un Garurumon montado por un misterioso chico.",
+      "ImagePath":"Recursos/img/Comedia_Digimon.png",
+      "EstadoId:":2,
+      "CategoryId":12
+   },
+   {
+      "ID":49,
+      "Name":"Kanojo, Okarishimasu",
+      "Synopsis":"En Japón, los solitarios tienen una nueva opción; ¡un servicio online para rentar padres, hijos, e incluso novias! Cuando el amor platónico de Kazuya lo rechaza, él decide que está lo suficientemente desesperado para probar el servicio, y queda impactado cuando descubre lo hermosa que es su novia de alquiler. No obstante, ella quiere mantener su (relación) como un secreto, y hay un problema… ella asiste a su universidad… y sus abuelas viven en la misma casa… ¡y ellos son vecinos! Para su desgracia, Kazuya descubrirá que ella no es tan genial como aparenta…",
+      "ImagePath":"Recursos/img/Comedia_Kanojo.png",
+      "EstadoId:":2,
+      "CategoryId":12
+   },
+   {
+      "ID":50,
+      "Name":"Uzaki-chan wa Asobitai!",
+      "Synopsis":"Shinichi Sakurai solo desea un poco de paz y silencio en su vida. pero Hana Uzaki (su ruidosa y bien desarrollada kouhai) tiene otros planes. Todo lo que ella quiere es pasar el rato con él y molestarlo un poco. ¡Con la ayuda de su encanto e insistencia, este podría ser el inicio de una hermosa relación!",
+      "ImagePath":"Recursos/img/Comedia_Uzaki.png",
+      "EstadoId:":2,
+      "CategoryId":12
+   },
+   {
+      "ID":51,
+      "Name":"Maesetsu!",
+      "Synopsis":"La historia se centra en cuatro chicas en el mayor auge de su juventud, trabajando muy duro para lograr sus sueños mientras luchan valientemente. En la industria del entretenimiento japonés, “Maesetsu!” es una expresión introductoria de un intérprete hacia una audiencia antes de una emisión televisiva, usualmente realizada por los asistentes de la dirección y comediantes en una variedad de shows.",
+      "ImagePath":"Recursos/img/Comedia_Maesetsu.png",
+      "EstadoId:":3,
+      "CategoryId":12
+   },
+   {
+      "ID":52,
+      "Name":"Kakushigoto",
+      "Synopsis":"Esta comedia tiene como protagonista a Goto Kakushi, quien no quiere que su hija, Goto Hime, se entere de que es un autor de mangas algo vulgares. Una historia de amor y risas entre padre e hija.",
+      "ImagePath":"Recursos/img/Comedia_Kakushigoto.png",
+      "EstadoId:":3,
+      "CategoryId":12
    }
-
 ]

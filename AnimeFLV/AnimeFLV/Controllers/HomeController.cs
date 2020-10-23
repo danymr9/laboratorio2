@@ -42,6 +42,8 @@ namespace AnimeFLV.Controllers
             ViewBag.NameSerie = repo.Series.FirstOrDefault(s => s.ID == id).Name;
             ViewBag.ImagenSerie = repo.Series.FirstOrDefault(s => s.ID == id).ImagePath;
             ViewBag.Description = repo.Series.FirstOrDefault(s => s.ID == id).Synopsis;
+            int Idestado = repo.Series.FirstOrDefault(s => s.ID == id).EstadoId;
+            ViewBag.estado = repo.Estado.FirstOrDefault(s => s.ID == Idestado).Name;
             return View(values);
         }
 

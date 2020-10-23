@@ -6,11 +6,11 @@
 <h2>@ViewBag.NameCategory</h2>
 
 <div class="container" style="width: 1187px;">
-    <div class="row product" style="width: 1182px;">
-        <div class="col-sm-2 col-md-3">
-            <div class="thumbnail">
+    <div class="row product">
+        <div class="card" style="margin: 10px;">
+            <div class="card-body">
                 <img src="~/@ViewBag.ImagenSerie" alt="...">
-                <div class="caption">
+                <div class="card-img">
                     <p>
                         <button class="btn btn-success" type="button" id="emi">
                             <span class="fa-tv">@ViewBag.state </span>
@@ -24,25 +24,24 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-10 col-md-8" style="color:black">
-            <div class="thumbnail">
-                <div class="panel panel-default">
-                    <div class="panel-body" style="height: 55px;">
+        <div class="card" style="color:black; width:770px; margin:10px;">
+            <div class="card-body">
+                <div class="card-header">
+                    <div class="container-fluid" style="height: 55px;">
                         <span>@ViewBag.NameSerie</span>
                     </div>
-                    <span class="label label-default" style="margin: 10px;">Accion</span>
                 </div>
 
-                <div class="panel panel-default">
+                <div class="card-body">
                     <div class="panel-body"><span>@ViewBag.Description</span></div>
                 </div>
 
-                <div class="panel panel-default">
+                <div class="card-footer">
                     <h4>Lista de Capitulos</h4>
                     <table class="table-bordered table-hover table table-striped">
                         <thead>
                             <tr>
-                                <th style="width: 880px;">Capitulo</th>
+                                <th style="width:750px;">Capitulo</th>
                                 <th>Enlace</th>
                             </tr>
                         </thead>
@@ -53,9 +52,9 @@
                                     <td>@item.Name</td>
                                     <td>
                                         <div class="btn-toolbar">
-                                            <button class="btn btn-info" style="height:30px;">
+                                            <button class="btn btn-info">
                                                 <a href="@Url.Action("Ver", new { id=item.ID })">
-                                                    <img src="~/Recursos/img/play42.png" />
+                                                    <img src="~/Recursos/img/play42.png" style="height:25px;" />
                                                 </a>
                                             </button>
                                         </div>

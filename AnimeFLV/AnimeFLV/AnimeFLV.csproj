@@ -87,7 +87,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\Estados.txt" />
-    <Content Include="App_Data\nuevos.txt" />
     <Content Include="App_Data\series.txt" />
     <Content Include="App_Data\categories.txt" />
     <Content Include="Content\bootstrap-grid.css" />
@@ -328,7 +327,6 @@
     <Compile Include="Models\Capitulos.cs" />
     <Compile Include="Models\Categorias.cs" />
     <Compile Include="Models\Estados.cs" />
-    <Compile Include="Models\Nuevos.cs" />
     <Compile Include="Models\Repository.cs" />
     <Compile Include="Models\Series.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

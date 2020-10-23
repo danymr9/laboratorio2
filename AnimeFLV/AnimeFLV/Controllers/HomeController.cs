@@ -19,7 +19,7 @@ namespace AnimeFLV.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            List<Nuevos> values = repo.Nuevo;
+            List<Series> values = repo.Series;
             return View(values);
         }
 

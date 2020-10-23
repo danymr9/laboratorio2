@@ -138,7 +138,6 @@ C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV
 C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.csproj.CopyComplete
 C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.dll
 C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.pdb
-C:\Users\bsalazar\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.csprojAssemblyReference.cache
 C:\Users\Danym\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\bin\AnimeFLV.dll.config
 C:\Users\Danym\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\bin\AnimeFLV.dll
 C:\Users\Danym\Source\Repos\laboratorio2\AnimeFLV\AnimeFLV\bin\AnimeFLV.pdb

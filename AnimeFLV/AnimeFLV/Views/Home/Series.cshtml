@@ -17,6 +17,18 @@
     <p>Series de @ViewBag.NameCategory </p>
 </div>
 
+<<<<<<< HEAD
+    @foreach (var item in Model)
+    {
+        <div class="content-Series">
+            <a href="@Url.Action("Capitulos", new { id=item.ID })">
+                <img src="~/@item.ImagePath" />
+                <div class="background-title-series"></div>
+                <h3 class="title-series">@item.Name</h3>
+            </a>
+        </div>
+    }
+=======
 @foreach (var item in Model)
 {
     <div class="content-Series" data-toggle="popover" title="@item.Name" data-content="@item.Synopsis">
@@ -27,4 +39,5 @@
         </a>
     </div>
 }
+>>>>>>> 1effbc62a83d832908987e1e5decda1a4439ba77
 

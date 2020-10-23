@@ -94,6 +94,23 @@
 		"Name":"Capitulo 3",
 		"Url":"https://embedsito.com/v/053yebl8el01py6",
 		"SerieId":6
+	},
+	{
+	"ID":17 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/DjkD4bX8p7Hkkq9/",
+		"SerieId":7
+	},
+	{
+	"ID":18 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/YG2GWyQ02Dsv9zo/",
+		"SerieId":7
+	},
+	{
+	"ID":19 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/RA7z03bLaltXKz/",
+		"SerieId":7
 	}
-
 ]

@@ -112,5 +112,131 @@
 		"Name":"Capitulo 3",
 		"Url":"https://streamtape.com/e/RA7z03bLaltXKz/",
 		"SerieId":7
+	},
+	{
+	"ID":20 ,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/nyd8gu236yz0g0x",
+		"SerieId":8
+	},
+	{
+	"ID":21 ,
+		"Name":"Capitulo 2",
+		"Url":"https://embedsito.com/v/24d8xb2rel5p227",
+		"SerieId":8
+	},
+	{
+	"ID":22 ,
+		"Name":"Capitulo 3",
+		"Url":"https://embedsito.com/v/8pyd0f8m-6gzw76",
+		"SerieId":8
+	},
+	{
+	"ID":23 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/XdkYbMllyDFDR7d/",
+		"SerieId":9
+	},
+	{
+	"ID":24 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/RqOWALADL6cd1QL/",
+		"SerieId":9
+	},
+	{
+	"ID":25 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/vQw7lgODQks4pr0/",
+		"SerieId":9
+	},
+	{
+		"ID":23 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/1J28wg0wLeteWRJ/",
+		"SerieId":10
+	},
+	{
+	"ID":24 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/Q21DzZra7lsAJR/",
+		"SerieId":10
+	},
+	{
+	"ID":25 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/9kw9jJ3xz1iadrv/",
+		"SerieId":10
+	},
+	{
+		"ID":26 ,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/60q67t0z-kwwg0r",
+		"SerieId":11
+	},
+	{
+	"ID":27 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/BLzwZYvAe7Iye7p/",
+		"SerieId":11
+	},
+	{
+	"ID":28 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/lq4zD1wKgWi7Mde/",
+		"SerieId":11
+	},
+	{
+		"ID":29 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/vKA3A8Lg8at4xqQ/",
+		"SerieId":12
+	},
+	{
+	"ID":30 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/AA3p1zxArjuXYWy/",
+		"SerieId":12
+	},
+	{
+	"ID":31 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/yDe4WmzpKvs18WW/",
+		"SerieId":12
+	},
+	{
+		"ID":32 ,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/-z85qtp6g2zxm-0",
+		"SerieId":13
+	},
+	{
+	"ID":33 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/3oWMlwaeybTAwd/",
+		"SerieId":14
+	},
+	{
+	"ID":34 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/01yj0BV7JzfbXPx/",
+		"SerieId":15
+	},
+	{
+		"ID":35 ,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/9oDMl1zeMbFo4g/",
+		"SerieId":16
+	},
+	{
+	"ID":36 ,
+		"Name":"Capitulo 2",
+		"Url":"https://streamtape.com/e/Reojmd9bD6fdzRk/",
+		"SerieId":17
+	},
+	{
+	"ID":37 ,
+		"Name":"Capitulo 3",
+		"Url":"https://streamtape.com/e/R6ZqXL908KiJOW/",
+		"SerieId":18
 	}
 ]

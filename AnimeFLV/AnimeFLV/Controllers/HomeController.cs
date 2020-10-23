@@ -19,7 +19,8 @@ namespace AnimeFLV.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            List<Series> values = repo.Series.Where(x => x.EstadoId == 1).Take(8).ToList();
+            return View(values);
         }
 
         public ActionResult Categorias()
@@ -37,19 +38,24 @@ namespace AnimeFLV.Controllers
 
         public ActionResult Capitulos(int id)
         {
-            List<Series> Serie = repo.Series.Where(x => x.ID == id).ToList();
             List<Capitulos> values = repo.Capitulos.Where(c => c.SerieId == id).ToList();
             ViewBag.NameSerie = repo.Series.FirstOrDefault(s => s.ID == id).Name;
             ViewBag.ImagenSerie = repo.Series.FirstOrDefault(s => s.ID == id).ImagePath;
             ViewBag.Description = repo.Series.FirstOrDefault(s => s.ID == id).Synopsis;
+            int CategoriaId = repo.Series.FirstOrDefault(s => s.ID == id).CategoryId;
+            ViewBag.NameCategory = repo.Categorias.FirstOrDefault(s => s.ID == CategoriaId).Name;
+            int EstadoId = repo.Series.FirstOrDefault(s => s.ID == id).EstadoId;
+            ViewBag.estado = repo.Estado.FirstOrDefault(s => s.ID == EstadoId).Name;
             return View(values);
         }
 
         public ActionResult Ver(int id)
         {
-            List<Capitulos> values = repo.Capitulos.Where(c => c.ID == id).ToList();
+            int SerieId = repo.Capitulos.FirstOrDefault(c => c.ID == id).SerieId;
+            ViewBag.NameSerie = repo.Series.FirstOrDefault(s => s.ID == SerieId).Name;
             ViewBag.UrlSerie = repo.Capitulos.FirstOrDefault(s => s.ID == id).Url;
-            return View(values);
+            ViewBag.NameCapitulo = repo.Capitulos.FirstOrDefault(s => s.ID == id).Name;
+            return View();
         }
     }
 }

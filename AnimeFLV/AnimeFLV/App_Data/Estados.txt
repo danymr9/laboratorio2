@@ -1,14 +1,14 @@
 [
    {
       "ID":1,
-      "Name":"Emisión"
+      "Name":"EMISION"
    },
    {
       "ID":2,
-      "Name":"Pausa"
+      "Name":"PAUSA"
    },
    {
       "ID":3,
-      "Name":"Finalizado"
+      "Name":"FINALIZADO"
    }
 ]

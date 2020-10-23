@@ -1,15 +1,13 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 20px;
-    background-image: url(~/Recursos/img/geometric-leaves.png);
+    background: url("../Recursos/img/fondo.png");
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.42);
 }
 
 /* Set width on the form input elements since they're 100% wide by default */
@@ -18,7 +16,9 @@ select,
 textarea {
     max-width: 280px;
 }*/
-
+.nav a.white-text:hover {
+    color: #e0e0e0 !important;
+}
 .content {
     width: 28%; /*Espacio a utilizar cada bloque*/
     display: inline-block; /*Colocar los bloques a la par*/
@@ -50,6 +50,22 @@ textarea {
         border-radius: 20px;
     }
 
+.content-New {
+    width: 23%; /*Espacio a utilizar cada bloque*/
+    display: inline-block; /*Colocar los bloques a la par*/
+    vertical-align: top;
+    margin-right: -65px;
+    margin-left: 22.5px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+    .content-New img {
+        height: 75%;
+        width: 75%;
+        border-radius: 20px;
+    }
+
 .content-title {
     height: 75px;
     padding: 25px;
@@ -63,13 +79,13 @@ textarea {
     text-align: center;
 }
 
-.content-title, .content-Series a:hover {
+.content-title, .content-Series, .content-New a:hover {
     text-decoration: none;
 }
     
 
 .container img:hover {
-    transform: scale(1.05);
+    transform: scale(1.04);
 }
 
     .content a:hover{
@@ -87,7 +103,7 @@ textarea {
 .title-series {
     font-size: 1em;
     text-align: center;
-    margin-top: -40px;
+    margin-top: -20px;
     margin-left: -60px;
     color: white;
     opacity: .9;
@@ -114,6 +130,17 @@ textarea {
     width: 75%;
 }
 #navbar {
+    margin-top:-10px;
     background-color: #2F353A;
     height: 70px;
 }
+#emi {
+    margin: 5px;
+    width: 250px;
+    height: 50px;
+}
+.thumbnail{
+    margin-top:15px;
+}
+
+

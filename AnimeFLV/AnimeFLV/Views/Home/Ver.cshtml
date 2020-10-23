@@ -3,26 +3,33 @@
     ViewBag.Title = "Ver";
     
 }
-<div class="card" style="width: 60rem;">
-    <div class="card-header"><h2>@ViewBag.NameSerie - @ViewBag.NameCapitulo</h2></div>
-</div>
-<div class="card" style="width: 60rem;">
-    <div class="row product">
-        <div class="col-md-8" style="margin: 20px 20px ;">
-            <iframe width="920" height="415" frameborder="0" src="@ViewBag.UrlSerie" scrolling="no" allowfullscreen></iframe>
+<div class="card">
+    <div class="card-body">
+        <div class="card" style="width: 66rem;">
+            <div class="card-header"><h3>@ViewBag.NameSerie - @ViewBag.NameCapitulo</h3></div>
+        </div>
+        <div class="card" style="width: 66rem;">
+            <div class="row product">
+                <div class="col-md-8" style="margin: 20px 20px ;">
+                    <iframe width="720" height="410" frameborder="0" src="@ViewBag.UrlSerie" scrolling="no" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="btn-group" role="group" style="width:60px; margin:-20px 20px;">
+                <button type="button" class="btn btn-secondary"><img src="~/Recursos/img/back.png" style="height:25px;" /></button>
+                <button type="button" class="btn btn-secondary"><img src="~/Recursos/img/menu.png" style="height:25px;" /></button>
+                <button type="button" class="btn btn-secondary"><img src="~/Recursos/img/next.png" style="height:25px;" /></button>
+            </div>
+            <p></p>
+            <hr />
+            <div class="card-body">
+                <h5 class="card-title">Comentarios</h5>
+                <textarea class="form-control" rows="5" id="comment"></textarea>
+                <p></p>
+                <a href="#" class="btn btn-primary">Comentar</a>
+            </div>
         </div>
     </div>
-    <div class="btn-group" role="group" style="width:60px; margin:-20px 20px;">
-        <button type="button" class="btn btn-secondary"></button>
-        <button type="button" class="btn btn-secondary">Middle</button>
-        <button type="button" class="btn btn-secondary">Right</button>
-    </div>
-
-    <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
-    </div>
 </div>
+
 
 

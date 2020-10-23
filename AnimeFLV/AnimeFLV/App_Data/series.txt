@@ -276,7 +276,7 @@
        "Name":"ID-0",
        "Synopsis":"En la historia, I-Machines es el nombre que se otorga a los robots que actúan en terreno hostil. La estudiante de la Alliance Academy Maya Mikuri está pilotando un I-Machine cuando se ve involucrada en un incidente relacionado con piratas y termina como miembro de la tripulación de una nave espacial perteneciente a una compañía de excavación.",
        "ImagePath":"Recursos/img/Mecha_ID-0.jpg",
-       "EstadoId":1,
+       "EstadoId":3,
        "CategoryId":6
     },
     {
@@ -284,7 +284,7 @@
        "Name":"Knight's & Magic",
        "Synopsis":"Un otaku de los mechas ve cumplido su sueño al morir en un accidente y reencarnarse en otro mundo como Ernesti Echevarria, o simplemente Eru. Pues aunque comienza una nueva vida, sigue recordando su pasión y hará todo lo posible para poder pilotar un Silhouette Knight, un robot que existe en su nueva realidad.",
        "ImagePath":"Recursos/img/Mecha_Knight's&Magic.jpg",
-       "EstadoId":1,
+       "EstadoId":3,
        "CategoryId":6
     },
     {
@@ -309,14 +309,6 @@
        "Synopsis":"a primera OVA (Shinobiyori Sugiru Kage), con una duración de 12 minutos, contará una historia completamente original del autor del manga originaL, ONE. La OVA tiene lugar después de la lucha de Saitama con Mosquito Girl y sigue a Genos tratando de averiguar, de forma persistente, el secreto de la fuerza de Saitama. Además, aparece una persona con (cierta razón) para tener rencor a Saitama. La segunda OVA (Hanashibeta-sugiru Deshi) también contará con una nueva historia de ONE. En este capítulo, Geno llega a un acuerdo con la banda de mafiosos de Don Pacino mientras avanzan las negociaciones con Saitama.",
        "ImagePath":"Recursos/img/Parodia_Punch.png",
        "EstadoId":3,
-       "CategoryId":7
-    },
-    {
-       "ID":56,
-       "Name":"Hetalia:The World Twinkle",
-       "Synopsis":"N/A",
-       "ImagePath":"Recursos/img/Parodia_Hetalia.png",
-       "EstadoId":2,
        "CategoryId":7
     },
     {
@@ -346,7 +338,7 @@
     {
        "ID":60,
        "Name":"Gintama 2015",
-       "Synopsis":"N/A",
+       "Synopsis":"Ova que vino junto al volumen 53 del manga.",
        "ImagePath":"Recursos/img/Parodia_Gintama2.png",
        "EstadoId":3,
        "CategoryId":7
@@ -389,30 +381,6 @@
        "Synopsis":"Después de la universidad, Rikuo Uozumi, un niño sin mucha ambición en la vida, toma un trabajo en una tienda de conveniencia. Los días pasan sin incidentes para Rikuo hasta que conoce a su ex novia y compañera de clase, pero especialmente gracias a la inusual Haru Nonaka y su mascota cuervo ...",
        "ImagePath":"Recursos/img/Romence_Yesterday.png",
        "EstadoId":2,
-       "CategoryId":8
-    },
-    {
-       "ID":66,
-       "Name":"Nekopara (TV)",
-       "Synopsis":"La historia nos pone en la piel de Kashou Minaduki, quien va a abrir la pastelería “La Soleil” tras huir de la cadena familiar de repostería clásica japonesa de su familia. Tras finalizar la mudanza, descubre que con él han venido las chicas gato Chocola y Vanilla, que le harán la vida un poco más complicada a su amo en este divertida comedia.",
-       "ImagePath":"Recursos/img/Romence_Nekopara.png",
-       "EstadoId":1,
-       "CategoryId":8
-    },
-    {
-       "ID":67,
-       "Name":"Hatena Illusion",
-       "Synopsis":"La serie se centra en Makoto Shiranui, un chico que viaja a Tokio para convertirse en el aprendiz de Mamoru Hoshisato, un mago famoso en todo el mundo y amigo de sus padres. Desde que había visto un espectáculo de Mamoru y su esposa Maeve, había soñado con ser un mago y gracias a la amistad de sus padres y los magos, Makoto es amigo de la infancia de Kana (apodada Hatena e hija de Mamoru y Maive). En el presente, Tokio sufre una ola de robos por parte de una bella ladrona, pero Makoto decide ir porque se siente tranquilo al estar cerca de Hatena. Sin embargo, cuando llega a la residencia Hoshisato, una mansión encantada, se percata que su relación con Hatena ha cambiado.",
-       "ImagePath":"Recursos/img/Romence_Hatena.png",
-       "EstadoId":3,
-       "CategoryId":8
-    },
-    {
-       "ID":68,
-       "Name":"Val x Love",
-       "Synopsis":"Takuma Akutsu es un joven de preparatoria al que le aterroriza el contacto humano y solo quiere llevar una vida tranquila... idea que se desvanece por completo cuando nueve hermanas Valkyries llegan a su casa y se instalan a vivir en ella. El joven tendrá que criar a las chicas para aumentar su nivel y que puedan derrotar a los monstruos que amenazan a la humanidad. ¿Y cómo subir su nivel? ¡Haciendo cosas pervertidas con ellas!",
-       "ImagePath":"Recursos/img/Romence_Val.png",
-       "EstadoId":3,
        "CategoryId":8
     },
     {

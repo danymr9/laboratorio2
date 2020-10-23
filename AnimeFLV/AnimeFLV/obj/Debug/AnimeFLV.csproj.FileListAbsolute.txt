@@ -226,31 +226,3 @@ C:\Users\Admin\Desktop\Nueva carpeta\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\An
 C:\Users\Admin\Desktop\Nueva carpeta\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.csproj.CopyComplete
 C:\Users\Admin\Desktop\Nueva carpeta\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.dll
 C:\Users\Admin\Desktop\Nueva carpeta\laboratorio2\AnimeFLV\AnimeFLV\obj\Debug\AnimeFLV.pdb
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\csc.exe
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\csc.exe.config
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\csc.rsp
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\csi.exe
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\csi.rsp
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\System.AppContext.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\vbc.exe
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\vbc.exe.config
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\vbc.rsp
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\VBCSCompiler.exe
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Danym\source\repos\laboratorio2\AnimeFLV\AnimeFLV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

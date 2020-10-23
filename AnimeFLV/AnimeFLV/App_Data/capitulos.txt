@@ -228,15 +228,214 @@
 		"SerieId":16
 	},
 	{
-	"ID":36 ,
+		"ID":36,
 		"Name":"Capitulo 2",
 		"Url":"https://streamtape.com/e/Reojmd9bD6fdzRk/",
 		"SerieId":17
 	},
 	{
-	"ID":37 ,
+		"ID":37,
 		"Name":"Capitulo 3",
 		"Url":"https://streamtape.com/e/R6ZqXL908KiJOW/",
 		"SerieId":18
+	},
+	{
+		"ID":38,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/gPVpq6wVp0cqpDA/",
+		"SerieId":19
+	},
+	{
+		"ID":39,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/Qam3AZvmAMHgJa/",
+		"SerieId":20
+	},
+	{
+		"ID":40,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/7yvwl516xoj",
+		"SerieId":21
+	},
+	{
+		"ID":41,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/4lo0-8exxoq",
+		"SerieId":22
+	},
+	{
+		"ID":42,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/dgQO1yV4LAT1yQ/",
+		"SerieId":23
+	},
+	{
+		"ID":43,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/7y9wljj-xvj",
+		"SerieId":24
+	},
+	{
+		"ID":44,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/7GV6ZMJ6JGtAgvy/",
+		"SerieId":25
+	},
+	{
+		"ID":45,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/gdABDrwOJofqjGk/",
+		"SerieId":26
+	},
+	{
+		"ID":46,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/dw9rkmeqpog",
+		"SerieId":27
+	},
+	{
+		"ID":47,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/1jrYOM7KeZcrBl/",
+		"SerieId":28
+	},
+	{
+		"ID":48,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/7zv-yz-42ox",
+		"SerieId":29
+	},
+	{
+		"ID":49,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/1xvq1j12x94",
+		"SerieId":30
+	},
+	{
+		"ID":50,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/abvKRbV2WytxVwx/",
+		"SerieId":31
+	},
+	{
+		"ID":51,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/Q2l7j6aVp1i0zp0/",
+		"SerieId":32
+	},
+	{
+		"ID":52,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/xrm921QVd0sk2Qy/",
+		"SerieId":33
+	},
+	{
+		"ID":53,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/lAVDd1KoqXF7GLR/",
+		"SerieId":34
+	},
+	{
+		"ID":54,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/8g9zx55dyvd",
+		"SerieId":35
+	},
+	{
+		"ID":55,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/7yvwl5y3xoj",
+		"SerieId":36
+	},
+	{
+		"ID":56,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/mzvk6-jm1oq",
+		"SerieId":53
+	},
+	{
+		"ID":57,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/pmo5-8mz89l",
+		"SerieId":54
+	},
+	{
+		"ID":58,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/pmo5-84m89l",
+		"SerieId":55
+	},
+	{
+		"ID":59,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/2w9md-47l96",
+		"SerieId":57
+	},
+	{
+		"ID":60,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/dw9rkg-7pog",
+		"SerieId":58
+	},
+	{
+		"ID":61,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/p6ogxm-dxvj",
+		"SerieId":59
+	},
+	{
+		"ID":62,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/zy9n0q268v1",
+		"SerieId":60
+	},
+	{
+		"ID":63,
+		"Name":"Capitulo 1",
+		"Url":"https://embedsito.com/v/dk125hxll7ykk50",
+		"SerieId":61
+	},
+	{
+		"ID":64,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/wV8kXDOB6MUJ9mK/",
+		"SerieId":62
+	},
+	{
+		"ID":65,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/Ogr16j7WO8HZJm6/",
+		"SerieId":63
+	},
+	{
+		"ID":66,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/6KROz0LZkkt904g/",
+		"SerieId":64
+	},
+	{
+		"ID":67,
+		"Name":"Capitulo 1",
+		"Url":"https://streamtape.com/e/vlY8p1bbpMfbz1/",
+		"SerieId":65
+	},
+	{
+		"ID":68,
+		"Name":"Capitulo 1",
+		"Url":"",
+		"SerieId":66
+	},
+	{
+		"ID":69,
+		"Name":"Capitulo 1",
+		"Url":"",
+		"SerieId":67
+	},
+	{
+		"ID":70,
+		"Name":"Capitulo 1",
+		"Url":"",
+		"SerieId":68
 	}
+
 ]

@@ -3,21 +3,31 @@
 @{
     ViewBag.Title = "Categorias";
 }
+<div class="card">
+    <div class="card-body">
+        <div class="content-title">
+            <p> Categorias </p>
+        </div>
 
-<div class="content-title">
-    <p> Categorias </p>
-</div>
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width:30%; display:inline-block; margin:10px; background-color:rgba(0, 0, 0, 0.83); border-radius:5%;">
+                <a href="@Url.Action("Series", new { id=item.ID })">
+                    <img class="card-img-bottom" src="~/@item.ImagePath" alt="Card image cap" style="height: 200px; margin:0.5px; border-radius:5%;">
+                    <div class="card-img-bottom" style="height:50px; text-align:center;">
+                        <h6 class="text-light navbar-brand">@item.Name</h6>
+                    </div>
+                </a>
+            </div>
+            @*<div class="content">
+                    <a href="@Url.Action("Series", new { id=item.ID })">
+                        <img src="~/@item.ImagePath" />
+                        <div class="background-title"></div>
+                        <h3 class="title">@item.Name</h3>
+                    </a>
+                </div>*@
+        }
 
-@foreach (var item in Model)
-{
-    <div class="content">
-        <a href="@Url.Action("Series", new { id=item.ID })">
-            <img src="~/@item.ImagePath" />
-            <div class="background-title"></div>
-            <h3 class="title">@item.Name</h3>
-        </a>
+
     </div>
-}
-
-
-
+</div>

@@ -2,14 +2,13 @@
 @{
     ViewBag.Title = "Capitulos";
 }
-
-<h2>@ViewBag.NameCategory</h2>
-
+<div class="card">
+</div>
 <div class="container" style="width: 1187px;">
     <div class="row product">
         <div class="card" style="margin: 10px;">
             <div class="card-body">
-                <img src="~/@ViewBag.ImagenSerie" alt="...">
+                <img class="img-thumbnail" src="~/@ViewBag.ImagenSerie" alt="...">
                 <div class="card-img">
                     <p>
                         <button class="btn btn-success" type="button" id="emi">
@@ -38,7 +37,6 @@
                 <div class="card-body">
                     <div class="panel-body"><span>@ViewBag.Description</span></div>
                 </div>
-
                 <div class="card-footer">
                     <h4>Lista de Capitulos</h4>
                     <table class="table-bordered table-hover table table-striped">

@@ -85,7 +85,7 @@ textarea {
     
 
 .container img:hover {
-    transform: scale(1.05);
+    transform: scale(1.04);
 }
 
     .content a:hover{
@@ -103,15 +103,7 @@ textarea {
 .title-series {
     font-size: 1em;
     text-align: center;
-    margin-top: -40px;
-    margin-left: -60px;
-    color: white;
-    opacity: .9;
-}
-.title-New {
-    font-size: 1em;
-    text-align: center;
-    margin-top: -40px;
+    margin-top: -20px;
     margin-left: -60px;
     color: white;
     opacity: .9;
@@ -137,16 +129,6 @@ textarea {
     text-align: center;
     width: 75%;
 }
-.background-title-New {
-    margin-top: -60px;
-    height: 60px;
-    background-color: #19C440;
-    color: white;
-    border-radius: 20px;
-    opacity: .85;
-    text-align: center;
-    width: 75%;
-}
 #navbar {
     margin-top:-10px;
     background-color: #2F353A;
@@ -160,4 +142,5 @@ textarea {
 .thumbnail{
     margin-top:15px;
 }
+
 

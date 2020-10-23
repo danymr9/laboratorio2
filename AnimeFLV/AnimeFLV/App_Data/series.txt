@@ -52,7 +52,7 @@
        "Name":"No Guns Life 2nd Season",
        "Synopsis":"Segunda parte de No Guns Life",
        "ImagePath":"Recursos/img/CienciaFiccion_NoGunsLife.jpg",
-       "EstadoId":1,
+       "EstadoId":3,
        "CategoryId":2
     },
     {
@@ -60,7 +60,7 @@
        "Name":"Deca-Dence",
        "Synopsis":"Han pasado muchos años desde que la humanidad fue llevada al borde de la extinción por la aparición repentina de las formas de vida desconocidas conocidas como Gadoll. Los humanos que sobrevivieron ahora viven en una fortaleza móvil de 3000 metros de altura construida para protegerse de la amenaza Gadoll. Los habitantes de Decadence se dividen en dos categorías: Gears, guerreros que luchan diariamente contra los Gadoll; y Tankers, aquellos sin las habilidades para luchar. Un día, Natsume, una chica Tanker que sueña con convertirse en un Gear, se encuentra con el herrero Kaburagi, un reparador de armaduras de Deca-dence. Esta reunión casual entre dos polos opuestos, la chica con una actitud positiva que nunca renuncia a sus sueños y un hombre realista que ha renunciado a los suyos, eventualmente sacudirá el curso futuro de este mundo.",
        "ImagePath":"Recursos/img/CienciaFiccion_DecaDence.jpg",
-       "EstadoId":1,
+       "EstadoId":3,
        "CategoryId":2
     },
     {
@@ -92,7 +92,7 @@
        "Name":"Psycho-Pass 3",
        "Synopsis":"En un futuro próximo, es posible medir de forma instantánea el estado mental de una persona, la personalidad y la probabilidad de que dicha persona vaya a cometer delitos gracias a un escáner psico-somático que realiza un escaneo de las funciones del cerebro y demás funciones biológicas y químicas del cuerpo, determinando el Psycho-Pass, un número asociado a un matiz en cada persona. Cuando esta probabilidad, medida como el índice de Coeficiente de Criminalidad, es demasiado alta, es decir, posee un matiz muy oscuro y un número muy elevado, los individuos son perseguidos y detenidos con fuerza letal si es necesario.",
        "ImagePath":"Recursos/img/CienciaFiccion_Psycho.jpg",
-       "EstadoId":1,
+       "EstadoId":3,
        "CategoryId":2
     },
     {

@@ -113,6 +113,7 @@
     <Content Include="Recursos\img\ArtesMarciales_DragonSuper.png" />
     <Content Include="Recursos\img\ArtesMarciales_Gibiate.png" />
     <Content Include="Recursos\img\ArtesMarciales_Hinomaruzumou.png" />
+    <Content Include="Recursos\img\back.png" />
     <Content Include="Recursos\img\CienciaFiccion_category.jpg" />
     <Content Include="Recursos\img\CienciaFiccion_Cop.jpg" />
     <Content Include="Recursos\img\CienciaFiccion_DecaDence.jpg" />
@@ -148,6 +149,8 @@
     <Content Include="Recursos\img\geometric-leaves.png" />
     <Content Include="Recursos\img\Infantil_category.jpg" />
     <Content Include="Recursos\img\Mecha_category.jpg" />
+    <Content Include="Recursos\img\menu.png" />
+    <Content Include="Recursos\img\next.png" />
     <Content Include="Recursos\img\Parodia_category.jpg" />
     <Content Include="Recursos\img\Parodia_Gakuen.png" />
     <Content Include="Recursos\img\Parodia_Genshiken.png" />

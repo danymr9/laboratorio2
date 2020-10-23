@@ -30,6 +30,9 @@
                     <div class="container-fluid" style="height: 55px;">
                         <span>@ViewBag.NameSerie</span>
                     </div>
+                    <div class="container-fluid">
+                        <span class="badge badge-pill badge-primary">@ViewBag.NameCategory</span>
+                    </div>
                 </div>
 
                 <div class="card-body">
@@ -52,7 +55,7 @@
                                     <td>@item.Name</td>
                                     <td>
                                         <div class="btn-toolbar">
-                                            <button class="btn btn-info">
+                                            <button class="btn btn-primary">
                                                 <a href="@Url.Action("Ver", new { id=item.ID })">
                                                     <img src="~/Recursos/img/play42.png" style="height:25px;" />
                                                 </a>

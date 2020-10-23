@@ -2,16 +2,26 @@
 @{
     ViewBag.Title = "Ver";
 }
-
-<h2>Ver</h2>
-<div class="container">
+<div class="card" style="width: 60rem;">
+    <div class="card-header"><h2>Ver</h2></div>
+</div>
+<div class="card" style="width: 60rem;">
     <div class="row product">
-        <div class="col-md-13" style="margin: 20px 20px ;">
-            <iframe width="760" height="415" frameborder="0" src="@ViewBag.UrlSerie" scrolling="no" allowfullscreen></iframe>
+        <div class="col-md-8" style="margin: 20px 20px ;">
+            <iframe width="920" height="415" frameborder="0" src="@ViewBag.UrlSerie" scrolling="no" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="page-header"></div>
-    <div class="page-header">
-        <h3 style="color: rgb(255,255,255);">Comentarios<button class="btn btn-primary write-review" type="button">Comentar</button></h3>
+    <div class="btn-group" role="group" style="width:60px; margin:-20px 20px;">
+        <button type="button" class="btn btn-secondary"></button>
+        <button type="button" class="btn btn-secondary">Middle</button>
+        <button type="button" class="btn btn-secondary">Right</button>
+    </div>
+
+    <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
     </div>
 </div>
+
+

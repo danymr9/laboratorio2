@@ -400,43 +400,11 @@
        "CategoryId":9
     },
     {
-       "ID":71,
-       "Name":"Burn the Witch",
-       "Synopsis":"Históricamente, 72% de las muertes en Londres están relacionadas con los dragones, criaturas fantásticas invisibles para la mayoría de la población. Mientras son desconocidas para muchos, algunas personajes han estado enfrentando a estas criaturas.",
-       "ImagePath":"Recursos/img/Shounen_Burn.png",
-       "EstadoId":1,
-       "CategoryId":9
-    },
-    {
-       "ID":72,
-       "Name":"Jujutsu Kaisen (TV)",
-       "Synopsis":"Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
-       "ImagePath":"Recursos/img/Shounen_Jujutsu.png",
-       "EstadoId":2,
-       "CategoryId":9
-    },
-    {
-       "ID":73,
-       "Name":"Kanojo, Okarishimasu",
-       "Synopsis":"En Japón, los solitarios tienen una nueva opción; ¡un servicio online para rentar padres, hijos, e incluso novias! Cuando el amor platónico de Kazuya lo rechaza, él decide que está lo suficientemente desesperado para probar el servicio, y queda impactado cuando descubre lo hermosa que es su novia de alquiler. No obstante, ella quiere mantener su (relación) como un secreto, y hay un problema… ella asiste a su universidad… y sus abuelas viven en la misma casa… ¡y ellos son vecinos! Para su desgracia, Kazuya descubrirá que ella no es tan genial como aparenta…",
-       "ImagePath":"Recursos/img/Shounen_Kanojo.png",
-       "EstadoId":2,
-       "CategoryId":9
-    },
-    {
        "ID":74,
        "Name":"BAKI: dai reitaisai-hen",
        "Synopsis":"El protagonista, Baki Hanma, entrena intensamente para ser tan fuerte como para superar a su padre, Yujiro Hanma, el luchador más fuerte del mundo. Cinco de los condenados a muerte más violentos y brutales del mundo se reúnen para enfrentar a Baki. Su objetivo es probar la derrota: su fuerza y ​​habilidad inigualables los han llevado a aburrirse de la vida misma, y ​​ahora buscan a Baki con la esperanza de que él pueda abrumarlos y aplastarlos por completo. En esta crisis, otros luchadores del arte marcial subterráneo se juntan para luchar al lado de Baki, se trata de Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh y Doppo Orochi. De esta forman, comienza un enfrentamiento épico entre presos condenados a muerte y Baki y sus amigos.",
        "ImagePath":"Recursos/img/Shounen_BAKI.png",
        "EstadoId":2,
-       "CategoryId":9
-    },
-    {
-       "ID":75,
-       "Name":"Kakushigoto",
-       "Synopsis":"Esta comedia tiene como protagonista a Goto Kakushi, quien no quiere que su hija, Goto Hime, se entere de que es un autor de mangas algo vulgares. Una historia de amor y risas entre padre e hija.",
-       "ImagePath":"Recursos/img/Shounen_Kakushigoto.png",
-       "EstadoId":3,
        "CategoryId":9
     },
     {
@@ -446,22 +414,6 @@
        "ImagePath":"Recursos/img/Shounen_Kyokou.png",
        "EstadoId":3,
        "CategoryId":9
-    },
-    {
-       "ID":77,
-       "Name":"Jujutsu Kaisen (TV)",
-       "Synopsis":"Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
-       "ImagePath":"Recursos/img/Terror_Jujutsu.png",
-       "EstadoId":1,
-       "CategoryId":10
-    },
-    {
-       "ID":78,
-       "Name":"Gibiate",
-       "Synopsis":"Año 2030: Japón. Un virus ha infectado a los humanos en todo el mundo. Los infectados se convierten en monstruos de acuerdo con sus edades, sexos y razas. El virus fue llamado (Gibia). Justo entonces, un samurái y un ninja aparecen en este Japón desolado. Ambos viajaron desde el antiguo periodo Edo, y lucharán en conjunto para ayudar a un doctor a encontrar la cura contra la Gibia. Enfrentándose a múltiples e incesantes monstruos productos del Gibia y contra varios sobrevivientes que buscan alimento, comenzarán el peligroso viaje para resolver este conflicto mundial.",
-       "ImagePath":"Recursos/img/Terror_Gibiate.png",
-       "EstadoId":1,
-       "CategoryId":10
     },
     {
        "ID":79,
@@ -520,14 +472,6 @@
        "CategoryId":11
     },
     {
-       "ID":38,
-       "Name":"Gibiate",
-       "Synopsis":"Año 2030: Japón. Un virus ha infectado a los humanos en todo el mundo. Los infectados se convierten en monstruos de acuerdo con sus edades, sexos y razas. El virus fue llamado (Gibia). Justo entonces, un samurái y un ninja aparecen en este Japón desolado. Ambos viajaron desde el antiguo periodo Edo, y lucharán en conjunto para ayudar a un doctor a encontrar la cura contra la Gibia. Enfrentándose a múltiples e incesantes monstruos productos del Gibia y contra varios sobrevivientes que buscan alimento, comenzarán el peligroso viaje para resolver este conflicto mundial.",
-       "ImagePath":"Recursos/img/ArtesMarciales_Gibiate.png",
-       "EstadoId":1,
-       "CategoryId":11
-    },
-    {
        "ID":39,
        "Name":"Hinomaruzumou",
        "Synopsis":"El sumo es algo más que un arte marcial, ¡es un ritual divino! Prepárate para disfrutar de toda la emoción y sudar como nunca con el mundo del sumo. Ushio Hinomaru puede ser pequeño de tamaño, pero está dispuesto a demostrar su valía en el ring. El problema es que el sumo es un deporte donde tu peso y tamaño son muy importantes y dependes directamente de ellos, con lo que su pasión no bastará para compensar su poca envergadura. ¡Da inicio la batalla por el Hinoshita Kaisan!",
@@ -545,7 +489,7 @@
     },
     {
        "ID":41,
-       "Name":"Boruto: Naruto Next Generations",
+       "Name":"Boruto:Next Generations",
        "Synopsis":"Esta es una secuela de las series de Naruto, la cual sigue la historia de Boruto el hijo de Naruto. La aldea oculta de la hoja ha continuado su moderinización pero siempre manateniendo la paz. Carros eléctricos recorren toda la ciudad conectada por distritos llenos de rascacielos con enormes monitores mostrando todo tipo de imágenes. En esta era, la aldea oculta de la hoja es ahora una cuidad ninja solo en nombre ya que ahora muchas personas normales han venido a vivir aquí. También el estilo de vida de los ninjas ha cambiado... Boruto, el hijo del séptimo Hokage y el actual lider de la aldea, se ha matriculado en la academia ninja para aprender todo sobre lo que necesita saber en las artes ninjas. Los estudiantes que rodean a Boruto se refieren a él como (el hijo del Hokage), pero Boruto con su peculiar personalidad se hará un nombre por él mismo. Boruto encontrá nuevos amigos y aliados, pero ¿cómo podrá lidear con todos esos misteriorsos incidentes que se le presentarán? Es así como comienza la historia de Boruto Uzumaki.",
        "ImagePath":"Recursos/img/ArtesMarciales_Boruto.png",
        "EstadoId":2,
@@ -561,7 +505,7 @@
     },
     {
        "ID":43,
-       "Name":"Dragon Ball Super Latino",
+       "Name":"Dragon Ball Super",
        "Synopsis":"Después de derrotar a Majin Buu, la vida vuelve a ser tranquila una vez más. Goku vuelve a trabajar otra vez ya que Chichi le ordena que gane dinero, aunque él quiere seguir entrenando. Mientras, Goten, a punto de convertirse en cuñado de Videl, se embarca en un viaje con Trunks para encontrar un regalo para ella.",
        "ImagePath":"Recursos/img/ArtesMarciales_DragonSuper.png",
        "EstadoId":3,
@@ -569,7 +513,7 @@
     },
     {
        "ID":44,
-       "Name":"Dragon Ball Z Pelicula 15",
+       "Name":"Dragon Ball Z Fukkatsu no F",
        "Synopsis":"La tierra está viviendo una época de paz por muchos años, Goku y sus amigos se encuentran pasando una vida tranquila, sin embargo la paz no será duradera y es que desde el espacio exterior un antiguo enemigo volverá a hacer su aparición. Y es que Freezer ha conseguido volver a la vida y su mayor deseo es vengarse de Goku quien no sólo le dio una paliza sino que también acabó con su orgullo. Freezer no regresará solo a la tierra sino que una serie de soldados muy poderosos harán su aparición para ayudar a Freezer a cumplir sus planes…",
        "ImagePath":"Recursos/img/ArtesMarciales_DragonBallZ.png",
        "EstadoId":3,
@@ -597,22 +541,6 @@
        "Synopsis":"Tsurugi Hina es una estudiante de primer año en preparatoria costera y que se considera a sí misma como inferior a los demás. Caminando a lo largo del terraplén, se encuentra con una senpai llamada Kuroiwa, quien la invita a unirse al club Rompeolas y comenzar a pescar. Rodeada de excéntricos miembros, ¿cómo será la vida en preparatoria de Hina?",
        "ImagePath":"Recursos/img/Comedia_Houkago.png",
        "EstadoId":1,
-       "CategoryId":12
-    },
-    {
-       "ID":48,
-       "Name":"Digimon Adventure:(2020)",
-       "Synopsis":"Esta nueva serie de Digimon Adventure se desarrolla en el año 2020, una era en la que el mundo humano se encuentra conectado por una red, que a su vez conforma un Mundo Digital habitado por unas formas de vida desconocidas llamadas (Digimon) (abreviatura de Digital Monster). Este primer capítulo es protagonizado por Taichi Yagami y Koushiro Izumi, sin embargo, solo el primero es transportado al Mundo Digital. Allí, se encuentra con un Koromon el cual evoluciona a Agumon después de ser rescatado. Koushiro descubre que un conjunto de Digimon están interviniendo en las líneas digitales de la ciudad, y esto ha puesto en peligro a la madre y hermana de Taichi, que se encuentran viajando en tren. Agumon logra hacer frente a estas amenazas y todo parece ir bien, hasta que el último Digimon restante evoluciona y Agumon es incapaz de dañarlo. Gracias al apoyo de Taichi, Agumon vuelve a evolucionar, esta vez a Greymon, y destruye a la amenaza devolviendo a la ciudad del mundo real a la normalidad. Al cierre, se observa a un Garurumon montado por un misterioso chico.",
-       "ImagePath":"Recursos/img/Comedia_Digimon.png",
-       "EstadoId":2,
-       "CategoryId":12
-    },
-    {
-       "ID":49,
-       "Name":"Kanojo, Okarishimasu",
-       "Synopsis":"En Japón, los solitarios tienen una nueva opción; ¡un servicio online para rentar padres, hijos, e incluso novias! Cuando el amor platónico de Kazuya lo rechaza, él decide que está lo suficientemente desesperado para probar el servicio, y queda impactado cuando descubre lo hermosa que es su novia de alquiler. No obstante, ella quiere mantener su (relación) como un secreto, y hay un problema… ella asiste a su universidad… y sus abuelas viven en la misma casa… ¡y ellos son vecinos! Para su desgracia, Kazuya descubrirá que ella no es tan genial como aparenta…",
-       "ImagePath":"Recursos/img/Comedia_Kanojo.png",
-       "EstadoId":2,
        "CategoryId":12
     },
     {

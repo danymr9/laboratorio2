@@ -1,6 +1,8 @@
 ﻿@model List<AnimeFLV.Models.Capitulos>
 @{
     ViewBag.Title = "Capitulos";
+    string estado = "FINALIZADO";
+    string estado2 = "PAUSA";
 }
 
 <div class="container" style="width: 1187px;">
@@ -9,12 +11,28 @@
             <div class="card-body">
                 <img class="img-thumbnail" src="~/@ViewBag.ImagenSerie" alt="...">
                 <div class="card-img">
+                    @if (estado.Equals(ViewBag.estado))
+                    {
+                        <button class="btn btn-danger" type="button" id="emi">
+                            <span class="fa-tv">@ViewBag.estado </span>
+                        </button>
+                    }else if (estado2.Equals(ViewBag.estado))
+                    {
+                    <button class="btn btn-info" type="button" id="emi">
+                        <span class="fa-tv">@ViewBag.estado </span>
+                    </button>
+                    }
+                    else
+                    {
                     <button class="btn btn-success" type="button" id="emi">
                         <span class="fa-tv">@ViewBag.estado </span>
                     </button>
+                    }
+
                 </div>
             </div>
         </div>
+        <!--Caja de Descripcion-->
         <div class="card" style="color:black; width:770px; margin:10px;">
             <div class="card-body">
                 <div class="card-header">

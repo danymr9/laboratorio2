@@ -6,14 +6,11 @@
 <div class="card">
     <div class="card-body">
         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="@Url.Action("Index")">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Categorias</li>
+            <ol class="breadcrumb" style="background-color:#464B4C;">
+                <li class="breadcrumb-item"><a class="text-light" href="@Url.Action("Index")">Home</a></li>
+                <li class="breadcrumb-item active text-info" aria-current="page">Categorias</li>
             </ol>
         </nav>
-        <div class="content-title">
-            <p> Categorias </p>
-        </div>
         @foreach (var item in Model)
         {
             <div class="card" style="width:30%; display:inline-block; margin:10px; background-color:rgba(0, 0, 0, 0.83); border-radius:5%;">
